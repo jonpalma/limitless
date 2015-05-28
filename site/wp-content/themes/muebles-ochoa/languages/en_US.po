@@ -1,0 +1,4805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WD OSWAD MARKET v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-02 19:33:00+0000\n"
+"Last-Translator: admin <linhnguyen@codespot.vn>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:41
+#@ wpdance
+msgid "Hit the \"back\" button on your browser."
+msgstr ""
+
+#: 404.php:42
+#@ wpdance
+msgid "Return to the Usability."
+msgstr ""
+
+#: 404.php:43
+#@ wpdance
+msgid "Use the navigation menu at the top of the page"
+msgstr ""
+
+#: theme/functions/filter_theme.php:330
+#, php-format
+#@ wpdance
+msgid "Category :%s"
+msgstr "Categoría: %s"
+
+#: theme/functions/filter_theme.php:335
+#, php-format
+#@ wpdance
+msgid "Search Results for: %s"
+msgstr "Resultados de Búsqueda para: %s"
+
+#: archive.php:26
+#: theme/functions/filter_theme.php:340
+#, php-format
+#@ wpdance
+msgid "Day : %s"
+msgstr "Día: %s"
+
+#: archive.php:30
+#: theme/functions/filter_theme.php:344
+#, php-format
+#@ wpdance
+msgid "Month : %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+#: theme/functions/filter_theme.php:344
+#@ wpdance
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:35
+#: theme/functions/filter_theme.php:349
+#, php-format
+#@ wpdance
+msgid "Year : %s"
+msgstr "Año: %s"
+
+#: archive.php:35
+#: theme/functions/filter_theme.php:349
+#@ wpdance
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: theme/functions/filter_theme.php:371
+#, php-format
+#@ wpdance
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: archive.php:65
+#: theme/functions/filter_theme.php:379
+#, php-format
+#@ wpdance
+msgid "Author : %s"
+msgstr "Autor: %s"
+
+#: archive.php:70
+#: theme/functions/filter_theme.php:384
+#@ wpdance
+msgid "OOPS! FILE NOT FOUND"
+msgstr "!UPS¡ NO ENCONTRAMOS EL ARCHIVO"
+
+#: archive.php:74
+#: theme/functions/filter_theme.php:388
+#@ wpdance
+msgid "Archive"
+msgstr "Archivo"
+
+#: archive.php:97
+#@ wpdance
+msgid "Prev Entries"
+msgstr "Entradas Previas"
+
+#: archive.php:99
+#@ wpdance
+msgid "Next Entries"
+msgstr "Entradas Siguientes"
+
+#: archive-portfolio.php:158
+#: attachment.php:36
+#: content.php:61
+#: single-portfolio.php:175
+#: single.php:148
+#, php-format
+#@ wpdance
+msgid "<span class=\"%1$s\"></span> %2$s"
+msgstr ""
+
+#: attachment.php:40
+#: framework/functions/posted_in_on.php:18
+#, php-format
+#@ wpdance
+msgid "View all posts by %s"
+msgstr "Ver todas las publicaciones por %s"
+
+#: attachment.php:50
+#, php-format
+#@ wpdance
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:53
+#@ wpdance
+msgid "Link to full-size image"
+msgstr ""
+
+#: archive-portfolio.php:165
+#: attachment.php:60
+#: attachment.php:108
+#: bbpress/user-details.php:56
+#: bbpress.php:78
+#: content.php:27
+#: framework/functions/breadcrumbs.php:302
+#: page-templates/contact-template.php:74
+#: page-templates/portfolio-template.php:46
+#: page.php:84
+#: single.php:46
+#: woocommerce/myaccount/my-address.php:45
+#@ wpdance
+msgid "Edit"
+msgstr "Editar"
+
+#: attachment.php:104
+#: framework/functions/filter_theme.php:37
+#: theme/functions/filter_theme.php:92
+#@ wpdance
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: attachment.php:105
+#: bbpress.php:75
+#: page-templates/contact-template.php:71
+#: page.php:81
+#@ wpdance
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: comments.php:20
+#@ wpdance
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ésta publicación está protegida por contraseña. Ingrese la contraseña para ver los comentarios."
+
+#: comments.php:50
+#: comments.php:69
+#@ wpdance
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios Anteriores"
+
+#: comments.php:51
+#: comments.php:70
+#@ wpdance
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Comentarios Recientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:82
+#@ wpdance
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-product-featured.php:36
+#@ wpdance
+msgid "We also recommend"
+msgstr "También recomendamos"
+
+#: archive-portfolio.php:171
+#: framework/functions/quicksand.php:55
+#: framework/widgets/wd_recent_post.php:107
+#@ wpdance
+msgid "Read more"
+msgstr "Leer más"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: archive-portfolio.php:154
+#: content.php:57
+#: single.php:84
+#@ wpdance
+msgid ", "
+msgstr ""
+
+#: framework/abstract.php:120
+#@ wpdance
+msgid "Primary Navigation"
+msgstr ""
+
+#: framework/admin/admin.php:69
+#@ wpdance
+msgid "Content - No Sidebar"
+msgstr ""
+
+#: framework/admin/admin.php:70
+#@ wpdance
+msgid "Content - Left Sidebar"
+msgstr ""
+
+#: framework/admin/admin.php:71
+#@ wpdance
+msgid "Content - Right Sidebar"
+msgstr ""
+
+#: framework/admin/ajax/epanel.php:99
+#: framework/admin/template/custom_fields/custom_layout.php:27
+#: framework/admin/template/epanel/product-details.php:35
+#@ wpdance
+msgid "Related Products"
+msgstr "Productos Relacionados"
+
+#: framework/admin/ajax/epanel.php:111
+#: framework/admin/template/custom_fields/custom_layout.php:40
+#: framework/admin/template/epanel/product-details.php:48
+#@ wpdance
+msgid "YOU MAY ALSO BE INTERESTED IN THE FOLLOWING PRODUCT(S)"
+msgstr "PUEDE QUE TAMBIÉN ESTÉ INTERESADO EN ESTE(OS) PRODUCTO(S)"
+
+#: framework/admin/template/custom_fields/custom_layout.php:70
+#: framework/admin/template/custom_fields/custom_layout.php:71
+#@ wpdance
+msgid "Custom Layout"
+msgstr ""
+
+#: framework/admin/template/custom_fields/custom_layout.php:71
+#@ wpdance
+msgid "Select custom layout for product page.Using general product page config by default"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:223
+#@ wpdance
+msgid "Columns"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:64
+#@ wpdance
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:78
+#: framework/functions/custom_term.php:109
+#: framework/functions/custom_term.php:262
+#@ wpdance
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:93
+#@ wpdance
+msgid "Page Slider"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:150
+#@ wpdance
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:232
+#@ wpdance
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:241
+#@ wpdance
+msgid "Hide Page Title"
+msgstr ""
+
+#: framework/admin/template/custom_fields/shortcode_generator.php:8
+#@ wpdance
+msgid "Choose One"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:71
+#@ wpdance
+msgid "Advertisement"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:82
+#@ wpdance
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:83
+#@ wpdance
+msgid "Disable"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:97
+#@ wpdance
+msgid "Ads Type"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:114
+#: framework/admin/template/epanel/advertisement.php:115
+#@ wpdance
+msgid "Url & Banner Title"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:115
+#@ wpdance
+msgid "Config image url, banner url and banner title for header ads"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:119
+#: framework/widgets/emads.php:63
+#@ wpdance
+msgid "Image Url"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:123
+#@ wpdance
+msgid "Banner Url"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:127
+#@ wpdance
+msgid "Banner title"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:134
+#@ wpdance
+msgid "Your code"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:147
+#: framework/admin/template/epanel/custom-code-area.php:59
+#: framework/admin/template/epanel/custom-interface.php:1519
+#: framework/admin/template/epanel/customforpostsingle.php:193
+#: framework/admin/template/epanel/general.php:212
+#: framework/admin/template/epanel/listing-page.php:154
+#: framework/admin/template/epanel/mega-menu.php:122
+#: framework/admin/template/epanel/product-category.php:105
+#: framework/admin/template/epanel/product-details.php:283
+#: framework/admin/template/epanel/sidebar-manager.php:60
+#@ wpdance
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: framework/admin/template/epanel/custom-code-area.php:3
+#@ wpdance
+msgid "Custom Code Area"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:10
+#: framework/admin/template/epanel/custom-code-area.php:11
+#@ wpdance
+msgid "Add code to top of your post"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:11
+#@ wpdance
+msgid "Add your custom code (html and javascript)"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:22
+#@ wpdance
+msgid "Add code to bottom of your post"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:23
+#@ wpdance
+msgid "Add code to bottom of your post (Before comments)"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:23
+#@ wpdance
+msgid "Add your custom code (html and javascript) to bottom of your post"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:33
+#: framework/admin/template/epanel/custom-code-area.php:34
+#@ wpdance
+msgid "Add code before < / body >"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:44
+#: framework/admin/template/epanel/custom-code-area.php:45
+#@ wpdance
+msgid "Google Analytics"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:45
+#@ wpdance
+msgid "Add your google analytics code"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-code-area.php:58
+#: framework/admin/template/epanel/general.php:211
+#: woocommerce/loop/orderby.php:19
+#@ wpdance
+msgid "Default"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:347
+#@ wpdance
+msgid "Custom Interface"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:355
+#@ wpdance
+msgid "Preview Panel"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:356
+#@ wpdance
+msgid " Preview Panel "
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:379
+#@ wpdance
+msgid "Site Layout"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:403
+#@ wpdance
+msgid "Custom Font"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:404
+#@ wpdance
+msgid " Custom Font "
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:580
+#: framework/admin/template/epanel/custom-interface.php:581
+#@ wpdance
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:581
+#@ wpdance
+msgid "Select color scheme for theme"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:1518
+#: framework/admin/template/epanel/mega-menu.php:121
+#: framework/admin/template/epanel/product-category.php:104
+#: framework/admin/template/epanel/product-details.php:282
+#: framework/admin/template/epanel/sidebar-manager.php:59
+#@ wpdance
+msgid "Reset Default"
+msgstr ""
+
+#: framework/admin/template/epanel/customforpostsingle.php:37
+#@ wpdance
+msgid "Custom for post page"
+msgstr ""
+
+#: framework/admin/template/epanel/customforpostsingle.php:44
+#: framework/admin/template/epanel/customforpostsingle.php:45
+#@ wpdance
+msgid "Config post detailed page"
+msgstr ""
+
+#: framework/admin/template/epanel/customforpostsingle.php:124
+#@ wpdance
+msgid "Config mobile detailed page"
+msgstr ""
+
+#: framework/admin/template/epanel/customforpostsingle.php:125
+#@ wpdance
+msgid "Config mobile post detailed page"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:8
+#@ wpdance
+msgid "General"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:15
+#: framework/admin/template/epanel/general.php:16
+#@ wpdance
+msgid "Images"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:16
+#@ wpdance
+msgid "Upload logo, tagline and favor icon image for your site"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:40
+#@ wpdance
+msgid "Logo image"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:62
+#@ wpdance
+msgid "Favor icon image"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:115
+#: framework/admin/template/epanel/general.php:116
+#@ wpdance
+msgid "Sidebar Contact Content"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:190
+#: framework/admin/template/epanel/general.php:191
+#: framework/admin/template/epanel/general.php:195
+#@ wpdance
+msgid "Copyright text"
+msgstr ""
+
+#: framework/admin/template/epanel/listing-page.php:30
+#@ wpdance
+msgid "Custom archive page"
+msgstr ""
+
+#: framework/admin/template/epanel/listing-page.php:38
+#: framework/admin/template/epanel/listing-page.php:39
+#@ wpdance
+msgid "Config archive page"
+msgstr ""
+
+#: framework/admin/template/epanel/listing-page.php:96
+#: framework/admin/template/epanel/listing-page.php:97
+#@ wpdance
+msgid "Config mobile archive page"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:34
+#@ wpdance
+msgid "Mega Menu Manager"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:43
+#: framework/admin/template/epanel/mega-menu.php:44
+#@ wpdance
+msgid "Menu Text & Image"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:48
+#@ wpdance
+msgid "Menu Text"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:62
+#: framework/admin/template/epanel/mega-menu.php:63
+#@ wpdance
+msgid "Menu thumbnail size"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:67
+#@ wpdance
+msgid "Thumbnail Width"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:71
+#@ wpdance
+msgid "Thumbnail Height"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:83
+#: framework/admin/template/epanel/mega-menu.php:84
+#@ wpdance
+msgid "Available Widget Area"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:84
+#@ wpdance
+msgid "See and delete Available Widget Area"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:88
+#@ wpdance
+msgid "Number Area"
+msgstr "Número de Área"
+
+#: framework/admin/template/epanel/mega-menu.php:101
+#: framework/admin/template/epanel/mega-menu.php:102
+#@ wpdance
+msgid "Disabled on mobile"
+msgstr "Deshabilitar en móvil"
+
+#: framework/admin/template/epanel/mega-menu.php:102
+#@ wpdance
+msgid "Disabled Mega Menu on mobile version"
+msgstr ""
+
+#: page-templates/archive-template.php:48
+#: page-templates/sitemap-template.php:49
+#@ wpdance
+msgid "Categories"
+msgstr "Categorías"
+
+#: framework/widgets/productaz.php:35
+#: page-templates/sitemap-template.php:41
+#@ wpdance
+msgid "Pages"
+msgstr "Páginas"
+
+#: theme/widgets/product_categories.php:234
+#: woocommerce/single-product-reviews.php:62
+#@ wpdance
+msgid "Name"
+msgstr "Nombre"
+
+#: framework/admin/template/epanel/panel_container.php:12
+#@ wpdance
+msgid "Config saved."
+msgstr "Configuración guardada."
+
+#: framework/admin/template/epanel/product-category.php:20
+#: framework/admin/template/epanel/product-details.php:61
+#@ wpdance
+msgid "Custom for product page"
+msgstr ""
+
+#: framework/admin/template/epanel/product-details.php:71
+#: framework/admin/template/epanel/product-details.php:72
+#@ wpdance
+msgid "Config product detailed page"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:11
+#@ wpdance
+msgid "Sidebar Manager"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:20
+#: framework/admin/template/epanel/sidebar-manager.php:21
+#@ wpdance
+msgid "Create New  Sidebar"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:21
+#@ wpdance
+msgid "Create a new sidebar"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:24
+#@ wpdance
+msgid "Add New Sidebar"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:33
+#: framework/admin/template/epanel/sidebar-manager.php:34
+#@ wpdance
+msgid "Available Sidebars"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:34
+#@ wpdance
+msgid "See and delete Available sidebar"
+msgstr ""
+
+#: framework/admin/template/epanel/sidebar-manager.php:41
+#@ wpdance
+msgid "Delete"
+msgstr "Eliminar"
+
+#: framework/admin/template/epanel/slideshow.php:3
+#@ wpdance
+msgid "Slideshow"
+msgstr ""
+
+#: framework/admin/template/epanel/slideshow.php:10
+#: framework/admin/template/epanel/slideshow.php:11
+#@ wpdance
+msgid "Main Slideshow"
+msgstr ""
+
+#: framework/admin/template/epanel/slideshow.php:11
+#@ wpdance
+msgid "Config delay time for main slideshow"
+msgstr ""
+
+#: framework/admin/template/epanel/slideshow.php:27
+#: framework/admin/template/epanel/slideshow.php:28
+#@ wpdance
+msgid "Slideshow at single page"
+msgstr ""
+
+#: framework/admin/template/epanel/slideshow.php:28
+#@ wpdance
+msgid "Config delay time for slideshow at single page"
+msgstr ""
+
+#: framework/admin/template/epanel/slideshow.php:32
+#@ wpdance
+msgid "Delay Time"
+msgstr ""
+
+#: framework/admin/template/epanel/tooltip.php:2
+#@ wpdance
+msgid "Help"
+msgstr "Ayuda"
+
+#: framework/functions/breadcrumbs.php:32
+#: woocommerce/global/breadcrumb.php:216
+#@ wpdance
+msgid "Page"
+msgstr "Página"
+
+#: framework/functions/comment.php:15
+#@ wpdance
+msgid "Name*"
+msgstr "Nombre*"
+
+#: framework/functions/comment.php:16
+#@ wpdance
+msgid "Email*"
+msgstr "Correo Electrónico*"
+
+#: framework/functions/comment.php:17
+#: framework/functions/comment.php:31
+#@ wpdance
+msgid "Website"
+msgstr "Sitio Web"
+
+#: framework/functions/comment.php:40
+#, php-format
+#@ wpdance
+msgid "Required fields are marked %s"
+msgstr "Campos requeridos están marcados %s"
+
+#: framework/functions/comment.php:44
+#, php-format
+#@ wpdance
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Tienes que estar <a href=\"%s\">registrado</a> para publicar un comentario."
+
+#: framework/functions/comment.php:45
+#, php-format
+#@ wpdance
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Ingresaste cómo <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">¿Deseas salir?</a>"
+
+#: framework/functions/comment.php:51
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+#@ wpdance
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a %s"
+
+#: framework/functions/comment.php:52
+#@ wpdance
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+#: framework/functions/custom_term.php:13
+#: framework/functions/custom_term.php:67
+#: framework/functions/custom_term.php:167
+#: framework/functions/custom_term.php:220
+#@ wpdance
+msgid "Product Columns"
+msgstr "Columna de Productos"
+
+#: framework/functions/custom_term.php:24
+#: framework/functions/custom_term.php:80
+#@ wpdance
+msgid "Category Layout"
+msgstr "Vista de Categoría"
+
+#: framework/functions/custom_term.php:93
+#: framework/functions/custom_term.php:246
+#@ wpdance
+msgid "Left SideBar"
+msgstr ""
+
+#: framework/functions/custom_term.php:36
+#: framework/functions/custom_term.php:125
+#: framework/functions/custom_term.php:190
+#: framework/functions/custom_term.php:278
+#@ wpdance
+msgid "Custom Informations"
+msgstr ""
+
+#: framework/functions/filter_theme.php:108
+#, php-format
+#@ wpdance
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: framework/functions/filter_theme.php:111
+#: theme/functions/filter_theme.php:182
+#@ wpdance
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está en espera de moderación."
+
+#. translators: 1: date, 2: time
+#: framework/functions/filter_theme.php:118
+#, php-format
+#@ wpdance
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: framework/functions/breadcrumbs.php:294
+#: framework/functions/filter_theme.php:118
+#: framework/functions/filter_theme.php:135
+#: theme/functions/filter_theme.php:177
+#: theme/functions/filter_theme.php:199
+#@ wpdance
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: framework/functions/filter_theme.php:135
+#: theme/functions/filter_theme.php:199
+#@ wpdance
+msgid "Pingback:"
+msgstr "Responder:"
+
+#: framework/functions/lightbox_control.php:33
+#@ wpdance
+msgid "LightBox"
+msgstr ""
+
+#: framework/functions/custom_functions.php:337
+#: woocommerce/checkout/thankyou.php:30
+#@ wpdance
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: framework/functions/main.php:848
+#@ wpdance
+msgid "Back to Top"
+msgstr "Volver Arriba"
+
+#: framework/functions/pagination.php:110
+#@ wpdance
+msgid "First"
+msgstr "Primero"
+
+#: framework/functions/pagination.php:111
+#: single.php:53
+#: woocommerce/single-product/related.php:56
+#: woocommerce/single-product/up-sells.php:55
+#@ wpdance
+msgid "Previous"
+msgstr "Anterior"
+
+#: framework/functions/pagination.php:129
+#: single.php:54
+#: woocommerce/single-product/related.php:57
+#: woocommerce/single-product/up-sells.php:56
+#@ wpdance
+msgid "Next"
+msgstr "Siguiente"
+
+#: framework/functions/pagination.php:130
+#@ wpdance
+msgid "Last"
+msgstr "Último"
+
+#: framework/functions/posted_in_on.php:9
+#, php-format
+#@ wpdance
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Publicado en</span> %2$s <span class=\"meta-sep\">por</span> %3$s"
+
+#: framework/functions/posted_in_on.php:35
+#, php-format
+#@ wpdance
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ésta entrada fue publicada en %1$s y etiquetada %2$s. Marcar el <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: framework/functions/posted_in_on.php:37
+#, php-format
+#@ wpdance
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ésta entrada fue publicada en %1$s. Marcar el <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: framework/functions/posted_in_on.php:39
+#, php-format
+#@ wpdance
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Marcar el <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: framework/functions/preview_mod.php:20
+#@ wpdance
+msgid "You do not have sufficient permissions to do this action."
+msgstr "No tienes suficientes permisos para completar ésta acción."
+
+#: framework/functions/preview_mod.php:24
+#@ wpdance
+msgid "Something goes wrong!Please login again"
+msgstr "¡Algo salió mal! Por favor ingresa de nuevo"
+
+#: framework/functions/quicksand.php:51
+#: framework/widgets/wd_recent_post.php:84
+#, php-format
+#@ wpdance
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+#: framework/functions/theme_sidebar.php:79
+#@ wpdance
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:81
+#@ wpdance
+msgid "The secondary sidebar widget area"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: framework/functions/wdmenus-admin.php:107
+#, php-format
+#@ wpdance
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+#. translators: %s: title of menu item in draft status
+#: framework/functions/wdmenus-admin.php:111
+#, php-format
+#@ wpdance
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: framework/functions/wdmenus-admin.php:135
+#@ wpdance
+msgid "Move up"
+msgstr "Subir"
+
+#: framework/functions/wdmenus-admin.php:148
+#@ wpdance
+msgid "Move down"
+msgstr "Bajar"
+
+#: framework/functions/wdmenus-admin.php:150
+#: framework/functions/wdmenus-admin.php:152
+#@ wpdance
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:161
+#@ wpdance
+msgid "URL"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:168
+#@ wpdance
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:174
+#@ wpdance
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:181
+#@ wpdance
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:186
+#@ wpdance
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:192
+#@ wpdance
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:198
+#@ wpdance
+msgid "Description"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:200
+#@ wpdance
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:211
+#@ wpdance
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:245
+#@ wpdance
+msgid "Sub Columns"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:266
+#@ wpdance
+msgid "Text Color"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:278
+#@ wpdance
+msgid "Display a Widget Area"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:290
+#@ wpdance
+msgid "Set Image"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:310
+#@ wpdance
+msgid "Align Right"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:327
+#, php-format
+#@ wpdance
+msgid "Original: %s"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:340
+#: woocommerce/cart/cart.php:30
+#@ wpdance
+msgid "Remove"
+msgstr "Quitar"
+
+#: framework/functions/wdmenus-admin.php:341
+#: woocommerce/myaccount/my-orders.php:83
+#@ wpdance
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: framework/functions/custom_functions.php:340
+#: woocommerce/checkout/form-checkout.php:75
+#: woocommerce/global/form-login.php:31
+#: woocommerce/myaccount/form-login.php:30
+#: woocommerce/myaccount/form-login.php:49
+#@ wpdance
+msgid "Login"
+msgstr "Ingresar"
+
+#: framework/functions/custom_functions.php:336
+#@ wpdance
+msgid "Logout"
+msgstr "Salir"
+
+#: woocommerce/cart/cart-totals.php:21
+#: woocommerce/cart/mini-cart.php:64
+#: woocommerce/checkout/review-order.php:28
+#@ wpdance
+msgid "Subtotal"
+msgstr ""
+
+#: framework/functions/woo-cart.php:125
+#: woocommerce/cart/mini-cart.php:70
+#@ wpdance
+msgid "Checkout"
+msgstr "Ir a caja"
+
+#: woocommerce/cart/cart.php:125
+#@ wpdance
+msgid "Remove this item"
+msgstr "Quitar éste artículo"
+
+#: woocommerce/loop/sale-flash.php:16
+#@ wpdance
+msgid "Sale!"
+msgstr "¡En Venta!"
+
+#: framework/functions/woo-hook.php:686
+#, php-format
+#@ wpdance
+msgid "Reviews (%d)"
+msgstr "Reseñas (%d)"
+
+#: framework/functions/woo-hook.php:768
+#@ wpdance
+msgid "Review(s)"
+msgstr "Reseña(s)"
+
+#: framework/functions/woo-hook.php:776
+#@ wpdance
+msgid "Be the first to review this product"
+msgstr "Sé el primero en darle una reseña a éste producto"
+
+#: framework/functions/woo-hook.php:117
+#@ wpdance
+msgid "Availability"
+msgstr "Disponibilidad"
+
+#: framework/functions/woo-hook.php:836
+#@ wpdance
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Inicio"
+
+#: framework/functions/woo-product.php:18
+#: framework/functions/woo-product.php:23
+#: framework/functions/woo-product.php:43
+#: framework/functions/woo-product.php:63
+#@ wpdance
+msgid "In stock"
+msgstr "En inventario"
+
+#: framework/functions/woo-product.php:23
+#, php-format
+#@ wpdance
+msgid "Only %s left in stock"
+msgstr "Sólo %s disponibles en inventario"
+
+#: framework/functions/woo-product.php:26
+#, php-format
+#@ wpdance
+msgid "%s in stock"
+msgstr "%s en inventario"
+
+#: framework/functions/woo-product.php:34
+#@ wpdance
+msgid "(backorders allowed)"
+msgstr "(Contra pedidos permitidos)"
+
+#: framework/functions/woo-product.php:40
+#: framework/functions/woo-product.php:53
+#: woocommerce/cart/cart.php:77
+#@ wpdance
+msgid "Available on backorder"
+msgstr "Disponible en contra pedido"
+
+#: framework/functions/woo-product.php:46
+#: framework/functions/woo-product.php:56
+#: framework/functions/woo-product.php:60
+#@ wpdance
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: page-templates/archive-template.php:42
+#: page-templates/sitemap-template.php:71
+#@ wpdance
+msgid "Comments"
+msgstr "Comentarios"
+
+#: framework/widgets/productaz.php:77
+#: framework/widgets/twitterupdate.php:178
+#: framework/widgets/wd_layered_nav.php:488
+#: theme/widgets/wd_tag_cloud.php:173
+#@ wpdance
+msgid "Title:"
+msgstr "Título:"
+
+#: framework/widgets/wd_recent_post.php:17
+#@ wpdance
+msgid "Recent"
+msgstr "Reciente"
+
+#: framework/widgets/twitterupdate.php:182
+#: theme/widgets/testimonial.php:207
+#@ wpdance
+msgid "Limit:"
+msgstr "Límite:"
+
+#: framework/widgets/emads.php:10
+#@ wpdance
+msgid "Advertisment  Widget"
+msgstr ""
+
+#: framework/widgets/emads.php:12
+#@ wpdance
+msgid "WD - Ads"
+msgstr ""
+
+#: framework/widgets/flickr.php:11
+#@ wpdance
+msgid "WD - Flickr"
+msgstr ""
+
+#: framework/widgets/flickr.php:86
+#@ wpdance
+msgid "See more"
+msgstr "Ver más"
+
+#: framework/widgets/flickr.php:143
+#@ wpdance
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: framework/widgets/flickr.php:147
+#@ wpdance
+msgid "Number:"
+msgstr "Número:"
+
+#: framework/widgets/flickr.php:155
+#@ wpdance
+msgid "Type:"
+msgstr "Tipo:"
+
+#: framework/widgets/flickr.php:157
+#@ wpdance
+msgid "User"
+msgstr "Usuario"
+
+#: framework/widgets/flickr.php:158
+#@ wpdance
+msgid "Group"
+msgstr "Grupo"
+
+#: framework/widgets/flickr.php:162
+#@ wpdance
+msgid "Sorting:"
+msgstr "Clasificación:"
+
+#: framework/widgets/flickr.php:164
+#@ wpdance
+msgid "Latest"
+msgstr "Más reciente"
+
+#: framework/widgets/flickr.php:165
+#: theme/widgets/product_categories.php:237
+#: theme/widgets/testimonial.php:190
+#@ wpdance
+msgid "Random"
+msgstr "Aleatorio"
+
+#: framework/widgets/flickr.php:169
+#@ wpdance
+msgid "Size:"
+msgstr "Tamaño:"
+
+#: framework/widgets/flickr.php:171
+#@ wpdance
+msgid "Square"
+msgstr ""
+
+#: framework/widgets/flickr.php:172
+#@ wpdance
+msgid "Medium"
+msgstr ""
+
+#: framework/widgets/flickr.php:173
+#@ wpdance
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/widgets/flickr.php:177
+#@ wpdance
+msgid "Numper of images per row"
+msgstr "Number of images per row"
+
+#: framework/widgets/productaz.php:5
+#@ wpdance
+msgid "This widget show list a-z of your products"
+msgstr ""
+
+#: framework/widgets/productaz.php:9
+#@ wpdance
+msgid "WD - Product A to Z"
+msgstr "WD - Producto A a la Z"
+
+#: framework/widgets/twitterupdate.php:10
+#@ wpdance
+msgid "Twitter Widget"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:11
+#@ wpdance
+msgid "WD - Twitter"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:22
+#@ wpdance
+msgid "Twitter Update"
+msgstr "Actualización en Twitter"
+
+#: framework/widgets/twitterupdate.php:180
+#@ wpdance
+msgid "Username twitter:"
+msgstr "Nombre de usuario en Twitter:"
+
+#: theme/functions/filter_theme.php:49
+#, php-format
+#@ wpdance
+msgid "Page %s"
+msgstr "Página %s"
+
+#: page-templates/archive-template.php:38
+#@ wpdance
+msgid "The Latest 30 Posts"
+msgstr "Las 30 publicaciones más recientes"
+
+#: page-templates/archive-template.php:55
+#@ wpdance
+msgid "Monthly Archives"
+msgstr "Archivos Mensuales"
+
+#: page-templates/sitemap-template.php:59
+#@ wpdance
+msgid "Posts per category"
+msgstr "Publicaciones por categoría"
+
+#: theme/functions/dropdown-menus.php:198
+#@ wpdance
+msgid "Use this widget to add one of your custom menus as a dropdown."
+msgstr ""
+
+#: theme/functions/dropdown-menus.php:199
+#@ wpdance
+msgid "Dropdown Menu"
+msgstr ""
+
+#: theme/functions/dropdown-menus.php:236
+#, php-format
+#@ wpdance
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/admin/template/custom_fields/shortcode_generator.php:21
+#: framework/functions/woo-hook.php:628
+#: framework/functions/woo-hook.php:635
+#: framework/functions/woo-hook.php:717
+#: framework/functions/woo-hook.php:793
+#: theme/functions/filter_theme.php:171
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/single-product/share.php:21
+#, php-format
+#@ wpdance
+msgid "%s"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: theme/functions/filter_theme.php:176
+#, php-format
+#@ wpdance
+msgid "%1$s"
+msgstr ""
+
+#: framework/functions/custom_functions.php:175
+#: theme/functions/filter_theme.php:215
+#@ wpdance
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: framework/functions/breadcrumbs.php:416
+#: framework/functions/custom_functions.php:176
+#: framework/functions/custom_functions.php:177
+#: theme/functions/filter_theme.php:219
+#@ wpdance
+msgid "Search"
+msgstr "Buscar"
+
+#: theme/functions/filter_theme.php:244
+#@ wpdance
+msgid "Reply"
+msgstr "Responder"
+
+#: theme/widgets/recent_comments_custom.php:6
+#@ wpdance
+msgid "The most recent comments"
+msgstr "Los comentarios más recientes"
+
+#: theme/widgets/recent_comments_custom.php:7
+#@ wpdance
+msgid "WD - Recent Comments"
+msgstr "WD - Comentarios Recientes"
+
+#: theme/widgets/recent_comments_custom.php:18
+#@ wpdance
+msgid "Recent Comments"
+msgstr "Comentarios Recientes"
+
+#: theme/widgets/ew_social.php:9
+#@ wpdance
+msgid "Display Social Profiles"
+msgstr ""
+
+#: theme/widgets/ew_social.php:11
+#@ wpdance
+msgid "WD - Social Profiles"
+msgstr "WD - Perfiles Sociales"
+
+#: framework/functions/woo-hook.php:77
+#: theme/widgets/ew_social.php:35
+#@ wpdance
+msgid "Facebook"
+msgstr ""
+
+#: framework/functions/woo-hook.php:77
+#: theme/widgets/ew_social.php:35
+#@ wpdance
+msgid "Become our fan"
+msgstr "Se nuestro fan"
+
+#: framework/functions/woo-hook.php:80
+#: theme/widgets/ew_social.php:38
+#@ wpdance
+msgid "Twitter"
+msgstr ""
+
+#: framework/functions/woo-hook.php:80
+#: theme/widgets/ew_social.php:38
+#: theme/widgets/testimonial.php:86
+#@ wpdance
+msgid "Follow us"
+msgstr "Síguenos"
+
+#: framework/functions/woo-hook.php:86
+#: theme/widgets/ew_social.php:44
+#@ wpdance
+msgid "Google Plus"
+msgstr "Google +"
+
+#: framework/functions/woo-hook.php:86
+#: theme/widgets/ew_social.php:44
+#@ wpdance
+msgid "Join our circle"
+msgstr "Únete a nuestro círculo"
+
+#: framework/functions/woo-hook.php:83
+#: framework/widgets/flickr.php:33
+#: theme/widgets/ew_social.php:41
+#@ wpdance
+msgid "Flickr"
+msgstr ""
+
+#: framework/functions/woo-hook.php:83
+#: framework/functions/woo-hook.php:92
+#: theme/widgets/ew_social.php:41
+#@ wpdance
+msgid "See Us"
+msgstr "Venos"
+
+#: framework/functions/woo-hook.php:89
+#: theme/widgets/ew_social.php:47
+#@ wpdance
+msgid "RSS"
+msgstr ""
+
+#: framework/functions/woo-hook.php:89
+#: theme/widgets/ew_social.php:47
+#@ wpdance
+msgid "Get updates"
+msgstr "Recibe actualizaciones"
+
+#: theme/widgets/ew_subscriptions.php:9
+#@ wpdance
+msgid "Display Subscriptions Form"
+msgstr ""
+
+#: theme/widgets/ew_subscriptions.php:11
+#@ wpdance
+msgid "WD - Feedburner Subscriptions"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/myaccount/review-order.php:21
+#: woocommerce/order/order-details.php:20
+#@ wpdance
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:27
+#: woocommerce/checkout/review-order.php:22
+#@ wpdance
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:28
+#: woocommerce/single-product/add-to-cart/simple.php:34
+#@ wpdance
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:29
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/review-order.php:22
+#: woocommerce/order/order-details.php:21
+#@ wpdance
+msgid "Total"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+#@ wpdance
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Ctd"
+
+#: woocommerce/cart/cart.php:139
+#@ wpdance
+msgid "Update Cart"
+msgstr "Actualizar Carrito"
+
+#: woocommerce/cart/cart.php:169
+#: woocommerce/checkout/form-coupon.php:29
+#@ wpdance
+msgid "Apply Coupon"
+msgstr "Usar Cupón"
+
+#: woocommerce/checkout/cart-errors.php:16
+#@ wpdance
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr "Hay algunos problemas con éste artículo en tu carrito (se muestran arriba). Por favor regresa a tu página de carrito y resuelve estos problemas antes de continuar a la caja."
+
+#: woocommerce/checkout/cart-errors.php:20
+#@ wpdance
+msgid "&larr; Return To Cart"
+msgstr "&larr; Regresar Al Carrito"
+
+#: woocommerce/checkout/form-checkout.php:138
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:115
+#@ wpdance
+msgid "Billing Address"
+msgstr "Dirección de Cobro"
+
+#: woocommerce/checkout/form-checkout.php:20
+#@ wpdance
+msgid "You must be logged in to checkout."
+msgstr "Tienes que estar registrado para continuar a la caja."
+
+#: woocommerce/checkout/form-checkout.php:95
+#@ wpdance
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+#: woocommerce/checkout/form-checkout.php:105
+#@ wpdance
+msgid "Create an account?"
+msgstr "¿Quieres crear una cuenta?"
+
+#: woocommerce/checkout/form-checkout.php:153
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:130
+#@ wpdance
+msgid "Shipping Address"
+msgstr "Dirección de Envío"
+
+#: woocommerce/checkout/form-login.php:15
+#: woocommerce/checkout/form-login.php:19
+#@ wpdance
+msgid "Click here to login"
+msgstr "Pulsa aquí para ingresar"
+
+#: woocommerce/checkout/form-pay.php:20
+#@ wpdance
+msgid "Qty"
+msgstr "Ctd"
+
+#: woocommerce/checkout/form-pay.php:21
+#@ wpdance
+msgid "Totals"
+msgstr "Totales"
+
+#: woocommerce/checkout/form-pay.php:78
+#@ wpdance
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Lo sentimos, parece que no hay métodos de pago disponibles para tu localización. Por favor contáctanos si requieres asistencia o deseas llegar a un acuerdo alternativo."
+
+#: woocommerce/checkout/form-pay.php:89
+#@ wpdance
+msgid "Pay for order"
+msgstr "Pagar por orden"
+
+#: framework/functions/woo-hook.php:703
+#: woocommerce/checkout/form-shipping.php:55
+#: woocommerce/single-product/tabs/additional-information.php:14
+#@ wpdance
+msgid "Additional Information"
+msgstr "Información Adicional"
+
+#: woocommerce/myaccount/review-order.php:27
+#@ wpdance
+msgid "Cart Subtotal"
+msgstr "Subtotal del Carrito"
+
+#: woocommerce/myaccount/review-order.php:34
+#@ wpdance
+msgid "Cart Discount"
+msgstr "Descuento del Carrito"
+
+#: woocommerce/cart/cart-shipping.php:19
+#: woocommerce/cart/cart-shipping.php:94
+#: woocommerce/myaccount/review-order.php:45
+#@ wpdance
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/myaccount/review-order.php:82
+#@ wpdance
+msgid "Order Discount"
+msgstr "Descuento de Orden"
+
+#: woocommerce/checkout/review-order.php:88
+#: woocommerce/myaccount/review-order.php:91
+#@ wpdance
+msgid "Order Total"
+msgstr "Total de Orden"
+
+#: woocommerce/myaccount/review-order.php:104
+#, php-format
+#@ wpdance
+msgid "(Includes %s)"
+msgstr "(Incluye %s)"
+
+#: woocommerce/checkout/review-order.php:186
+#: woocommerce/myaccount/review-order.php:174
+#@ wpdance
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Por favor llena la información de arriba para ver los métodos de pagos disponibles."
+
+#: woocommerce/checkout/review-order.php:188
+#: woocommerce/myaccount/review-order.php:176
+#@ wpdance
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Lo sentimos, parece que no hay métodos de pagos disponibles para tu estado. Por favor contáctanos si requieres asistencia o deseas llegar a un acuerdo alternativo."
+
+#: woocommerce/checkout/review-order.php:199
+#: woocommerce/myaccount/review-order.php:185
+#@ wpdance
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Parece que tu navegador no soporta JavaScript, o se encuentra deshabilitado, por favor asegúrate  de pulsar el botón de <em>Actualizar Totales</em> antes de colocar tu orden."
+
+#: woocommerce/checkout/review-order.php:199
+#: woocommerce/myaccount/review-order.php:185
+#@ wpdance
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#: woocommerce/checkout/review-order.php:206
+#: woocommerce/myaccount/review-order.php:192
+#@ wpdance
+msgid "Place order"
+msgstr "Colocar orden"
+
+#: woocommerce/checkout/review-order.php:213
+#: woocommerce/myaccount/review-order.php:199
+#@ wpdance
+msgid "I have read and accept the"
+msgstr "He leído y aceptado los"
+
+#: woocommerce/checkout/review-order.php:213
+#: woocommerce/myaccount/review-order.php:199
+#@ wpdance
+msgid "terms &amp; conditions"
+msgstr "términos &amp; condiciones"
+
+#: woocommerce/checkout/thankyou.php:18
+#@ wpdance
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr "Desafortunadamente tu orden no puede ser procesada debido a que el banco/comerciante originario ha declinado tu transacción."
+
+#: woocommerce/checkout/thankyou.php:22
+#@ wpdance
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Por favor intenta tu compra de nuevo o ve a tu página de cuenta."
+
+#: woocommerce/checkout/thankyou.php:24
+#@ wpdance
+msgid "Please attempt your purchase again."
+msgstr "Por favor intenta tu compra de nuevo."
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:77
+#@ wpdance
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:67
+#@ wpdance
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Tu orden ha sido recibida."
+
+#: woocommerce/checkout/thankyou.php:40
+#@ wpdance
+msgid "Order:"
+msgstr "Orden:"
+
+#: woocommerce/checkout/thankyou.php:44
+#@ wpdance
+msgid "Date:"
+msgstr "Fecha:"
+
+#: woocommerce/checkout/thankyou.php:48
+#@ wpdance
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#@ wpdance
+msgid "Payment method:"
+msgstr "Método de Pago:"
+
+#: woocommerce/single-product/add-to-cart/simple.php:46
+#: woocommerce/single-product/add-to-cart/variable.php:89
+#@ wpdance
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: woocommerce/loop/no-products-found.php:14
+#@ wpdance
+msgid "No products found which match your selection."
+msgstr "No se han encontrado productos que se ajusten a su selección."
+
+#: woocommerce/myaccount/form-change-password.php:22
+#: woocommerce/myaccount/form-lost-password.php:34
+#@ wpdance
+msgid "New password"
+msgstr "Nueva Contraseña"
+
+#: woocommerce/myaccount/form-change-password.php:26
+#: woocommerce/myaccount/form-lost-password.php:38
+#@ wpdance
+msgid "Re-enter new password"
+msgstr "Vuelva a ingresar su nueva contraseña"
+
+#: woocommerce/myaccount/form-change-password.php:31
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ wpdance
+msgid "Save"
+msgstr "Guardar"
+
+#: woocommerce/myaccount/form-edit-address.php:41
+#@ wpdance
+msgid "Save Address"
+msgstr "Guardar Dirección"
+
+#: woocommerce/global/form-login.php:20
+#@ wpdance
+msgid "Username or email"
+msgstr "Usuario o correo electrónico"
+
+#: woocommerce/global/form-login.php:24
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:93
+#@ wpdance
+msgid "Password"
+msgstr "Contraseña"
+
+#: framework/functions/custom_functions.php:341
+#: woocommerce/myaccount/form-login.php:72
+#: woocommerce/myaccount/form-login.php:111
+#@ wpdance
+msgid "Register"
+msgstr "Registrarse"
+
+#: woocommerce/single-product-reviews.php:64
+#@ wpdance
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: woocommerce/myaccount/form-lost-password.php:25
+#@ wpdance
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "¿Perdiste tu contraseña? Por favor ingresa tu usuario o correo electrónico. Recibirás un enlace para crear una nueva contraseña vía correo electrónico."
+
+#: woocommerce/myaccount/form-lost-password.php:31
+#@ wpdance
+msgid "Enter a new password below."
+msgstr "Ingrese una nueva contraseña abajo."
+
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ wpdance
+msgid "Reset Password"
+msgstr "Restablecer Contraseña"
+
+#: woocommerce/myaccount/my-address.php:17
+#@ wpdance
+msgid "My Addresses"
+msgstr "Mis Direcciones"
+
+#: woocommerce/myaccount/my-address.php:23
+#@ wpdance
+msgid "My Address"
+msgstr "Mi Dirección"
+
+#: woocommerce/myaccount/my-address.php:35
+#@ wpdance
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Las siguientes direcciones serán usadas por defecto en la página de caja."
+
+#: woocommerce/myaccount/my-address.php:64
+#@ wpdance
+msgid "You have not set up this type of address yet."
+msgstr "Aún no has configurado éste tipo de dirección."
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ wpdance
+msgid "Available downloads"
+msgstr "Descargas Disponibles"
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ wpdance
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] "%s descarga restante"
+msgstr[1] "%s descargas restantes"
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ wpdance
+msgid "Recent Orders"
+msgstr "Ordenes Recientes"
+
+#: theme/widgets/product_categories.php:242
+#: woocommerce/myaccount/my-orders.php:32
+#@ wpdance
+msgid "Order"
+msgstr "Orden"
+
+#: theme/widgets/testimonial.php:189
+#: woocommerce/myaccount/my-orders.php:33
+#@ wpdance
+msgid "Date"
+msgstr "Fecha"
+
+#: theme/includes/class-tgm-plugin-activation.php:1376
+#: woocommerce/myaccount/my-orders.php:34
+#@ tgmpa
+#@ wpdance
+msgid "Status"
+msgstr "Estatus"
+
+#: woocommerce/myaccount/my-orders.php:68
+#, php-format
+#@ wpdance
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s por %s artículo"
+msgstr[1] "%s por %s artículos"
+
+#: woocommerce/myaccount/my-orders.php:88
+#@ wpdance
+msgid "View"
+msgstr "Ver"
+
+#: woocommerce/order/form-tracking.php:17
+#@ wpdance
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr "Para rastrear tu orden por favor ingresa el ID de Orden en el campo de abajo y presiona regresar. Ésta te fue dada en el recibo y en el correo electrónico de confirmación que debiste haber recibido."
+
+#: woocommerce/order/form-tracking.php:19
+#@ wpdance
+msgid "Order ID"
+msgstr "ID de Orden"
+
+#: woocommerce/order/form-tracking.php:19
+#@ wpdance
+msgid "Found in your order confirmation email."
+msgstr "Encontrado en el correo electrónico de confirmación de tu orden."
+
+#: woocommerce/order/form-tracking.php:20
+#@ wpdance
+msgid "Billing Email"
+msgstr "Correo electrónico de Cobro"
+
+#: woocommerce/order/form-tracking.php:20
+#@ wpdance
+msgid "Email you used during checkout."
+msgstr "Correo electrónico usado en caja."
+
+#: woocommerce/order/form-tracking.php:23
+#@ wpdance
+msgid "Track"
+msgstr "Rastrear"
+
+#: woocommerce/order/order-details.php:16
+#@ wpdance
+msgid "Order Details"
+msgstr "Detalles de la orden"
+
+#: woocommerce/order/order-details.php:64
+#, php-format
+#@ wpdance
+msgid "Download file%s"
+msgstr "Archivo de descarga%s"
+
+#: woocommerce/order/order-details.php:87
+#@ wpdance
+msgid "Order Again"
+msgstr "Ordenar de Nuevo"
+
+#: woocommerce/order/order-details.php:94
+#@ wpdance
+msgid "Customer details"
+msgstr "Información del Cliente"
+
+#: woocommerce/order/order-details.php:98
+#@ wpdance
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: woocommerce/order/order-details.php:99
+#@ wpdance
+msgid "Telephone:"
+msgstr "Teléfono:"
+
+#: woocommerce/order/order-details.php:119
+#: woocommerce/order/order-details.php:134
+#@ wpdance
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:17
+#, php-format
+#@ wpdance
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "La orden %s que fue hecha %s tiene un estatus &ldquo;%s&rdquo;"
+
+#: woocommerce/order/tracking.php:17
+#@ wpdance
+msgid "ago"
+msgstr "hace"
+
+#: woocommerce/order/tracking.php:19
+#@ wpdance
+msgid "and was completed"
+msgstr "y fue completada"
+
+#: woocommerce/order/tracking.php:19
+#@ wpdance
+msgid " ago"
+msgstr "hace"
+
+#: woocommerce/myaccount/view-order.php:22
+#: woocommerce/order/tracking.php:30
+#@ wpdance
+msgid "Order Updates"
+msgstr "Actualizaciones de Orden"
+
+#: woocommerce/single-product/add-to-cart/variable.php:26
+#@ wpdance
+msgid "Choose an option"
+msgstr "Elige una opción"
+
+#: woocommerce/single-product/add-to-cart/variable.php:79
+#@ wpdance
+msgid "Clear selection"
+msgstr "Limpiar selecección"
+
+#: woocommerce/single-product/meta.php:19
+#@ wpdance
+msgid "SKU:"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: woocommerce/single-product/meta.php:24
+#: theme/widgets/testimonial.php:239
+#@ wpdance
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
+
+#: woocommerce/single-product/meta.php:29
+#@ wpdance
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Etiqueta:"
+msgstr[1] "Etiquetas:"
+
+#: woocommerce/single-product/product-attributes.php:31
+#@ wpdance
+msgid "Weight"
+msgstr "Peso"
+
+#: woocommerce/single-product/product-attributes.php:38
+#@ wpdance
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ wpdance
+msgid "Rated %d out of 5"
+msgstr "Calificada %d sobre 5"
+
+#: framework/functions/custom_functions.php:387
+#: woocommerce/single-product/review.php:27
+#@ wpdance
+msgid "out of 5"
+msgstr "sobre 5"
+
+#: woocommerce/single-product/review.php:34
+#@ wpdance
+msgid "Your comment is awaiting approval"
+msgstr "Tu comentario está en espera de aprobación"
+
+#: woocommerce/single-product/review.php:43
+#@ wpdance
+msgid "verified owner"
+msgstr "Dueño verificado"
+
+#: woocommerce/single-product/short-description.php:18
+#@ wpdance
+msgid "Quick Overview"
+msgstr "Vista Rápida"
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+#@ wpdance
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s reseña por %s"
+msgstr[1] "%s reseñas por %s"
+
+#: woocommerce/single-product-reviews.php:23
+#@ wpdance
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: woocommerce/single-product-reviews.php:57
+#@ wpdance
+msgid "Add a review"
+msgstr "Añadir una reseña"
+
+#: woocommerce/single-product-reviews.php:57
+#@ wpdance
+msgid "Be the first to review"
+msgstr "Sé el primero en dar una reseña"
+
+#: woocommerce/single-product-reviews.php:74
+#@ wpdance
+msgid "Rate&hellip;"
+msgstr "Calificar&hellip;"
+
+#: woocommerce/single-product-reviews.php:75
+#@ wpdance
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: woocommerce/single-product-reviews.php:76
+#@ wpdance
+msgid "Good"
+msgstr "Bueno"
+
+#: woocommerce/single-product-reviews.php:77
+#@ wpdance
+msgid "Average"
+msgstr "Promedio"
+
+#: woocommerce/single-product-reviews.php:78
+#@ wpdance
+msgid "Not that bad"
+msgstr "No es malo"
+
+#: woocommerce/single-product-reviews.php:79
+#@ wpdance
+msgid "Very Poor"
+msgstr "Muy malo"
+
+#: woocommerce/single-product-reviews.php:83
+#@ wpdance
+msgid "Your Review"
+msgstr "Tu Reseña"
+
+#: 404.php:37
+#@ wpdance
+msgid "You may have stumbled here by accident or the post you are looking for is no longer here."
+msgstr "Tal vez tropezaste aquí por accidente o la publicación que buscas ya no se encuentra aquí."
+
+#: 404.php:38
+#@ wpdance
+msgid "Please try one of the following:"
+msgstr "Por favor intenta una de las siguientes:"
+
+#: framework/functions/woo-hook.php:696
+#: framework/functions/woo-hook.php:734
+#: single-portfolio.php:173
+#: single.php:146
+#@ wpdance
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: framework/admin/template/custom_fields/page_configuration.php:33
+#@ wpdance
+msgid "Layout Style"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:51
+#@ wpdance
+msgid "Page Layout"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:78
+#: framework/admin/template/epanel/advertisement.php:79
+#@ wpdance
+msgid "Enable Header Advertisement"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:94
+#: framework/admin/template/epanel/advertisement.php:95
+#@ wpdance
+msgid "Advertisement Type"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:95
+#@ wpdance
+msgid "Select Advertisement Type"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:20
+#@ wpdance
+msgid "Text Logo"
+msgstr ""
+
+#: framework/admin/template/epanel/product-category.php:27
+#: framework/admin/template/epanel/product-category.php:28
+#@ wpdance
+msgid "Config product category page"
+msgstr ""
+
+#: framework/admin/template/epanel/slideshow.php:15
+#@ wpdance
+msgid "Delay time"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:235
+#: theme/functions/dropdown-menus.php:241
+#: theme/widgets/popular_product_by_categories.php:277
+#: theme/widgets/recent_comments_custom.php:187
+#: theme/widgets/testimonial.php:188
+#: theme/widgets/testimonial.php:204
+#@ wpdance
+msgid "Title"
+msgstr ""
+
+#: framework/widgets/emads.php:65
+#@ wpdance
+msgid "Ads Url"
+msgstr ""
+
+#: framework/widgets/emads.php:67
+#@ wpdance
+msgid "Image title"
+msgstr ""
+
+#: framework/widgets/emads.php:69
+#@ wpdance
+msgid "Image Width"
+msgstr ""
+
+#: framework/widgets/emads.php:71
+#@ wpdance
+msgid "Image Height"
+msgstr ""
+
+#: theme/functions/dropdown-menus.php:245
+#@ wpdance
+msgid "Select Menu"
+msgstr ""
+
+#: theme/functions/filter_theme.php:585
+#: theme/includes/class-tgm-plugin-activation.php:161
+#@ wpdance
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: theme/functions/filter_theme.php:586
+#: theme/includes/class-tgm-plugin-activation.php:162
+#@ wpdance
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: theme/functions/filter_theme.php:587
+#: theme/includes/class-tgm-plugin-activation.php:163
+#, php-format
+#@ wpdance
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: theme/functions/filter_theme.php:588
+#@ wpdance
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: theme/functions/filter_theme.php:589
+#: theme/includes/class-tgm-plugin-activation.php:165
+#, php-format
+#@ wpdance
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:590
+#: theme/includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ wpdance
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:591
+#: theme/includes/class-tgm-plugin-activation.php:167
+#, php-format
+#@ wpdance
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:592
+#: theme/includes/class-tgm-plugin-activation.php:168
+#, php-format
+#@ wpdance
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:593
+#: theme/includes/class-tgm-plugin-activation.php:169
+#, php-format
+#@ wpdance
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:594
+#: theme/includes/class-tgm-plugin-activation.php:170
+#, php-format
+#@ wpdance
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:595
+#: theme/includes/class-tgm-plugin-activation.php:171
+#, php-format
+#@ wpdance
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:596
+#: theme/includes/class-tgm-plugin-activation.php:172
+#, php-format
+#@ wpdance
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:597
+#: theme/includes/class-tgm-plugin-activation.php:173
+#@ wpdance
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:598
+#@ wpdance
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/functions/filter_theme.php:599
+#: theme/includes/class-tgm-plugin-activation.php:175
+#@ wpdance
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: theme/functions/filter_theme.php:600
+#: theme/includes/class-tgm-plugin-activation.php:177
+#: theme/includes/class-tgm-plugin-activation.php:1938
+#@ wpdance
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: theme/functions/filter_theme.php:601
+#, php-format
+#@ wpdance
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:164
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:179
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:530
+#: theme/includes/class-tgm-plugin-activation.php:2155
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:180
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1165
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1168
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1173
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1176
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1176
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1179
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1181
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1357
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1373
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1374
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1375
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1286
+#: theme/includes/class-tgm-plugin-activation.php:1394
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1308
+#: theme/includes/class-tgm-plugin-activation.php:1395
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: theme/includes/class-tgm-plugin-activation.php:1629
+#: theme/includes/class-tgm-plugin-activation.php:178
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1921
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1922
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1923
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1924
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1925
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1926
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:1937
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2051
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2052
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2052
+#: theme/includes/class-tgm-plugin-activation.php:2061
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2052
+#: theme/includes/class-tgm-plugin-activation.php:2061
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2053
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2054
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2058
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2059
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2060
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2061
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2062
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:2063
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: theme/widgets/recent_comments_custom.php:190
+#@ wpdance
+msgid "Number of comments to show"
+msgstr ""
+
+#: theme/widgets/bbpress_forums.php:132
+#: theme/widgets/bbpress_recent_posts.php:149
+#: theme/widgets/best_selling_product.php:159
+#: theme/widgets/ew_social.php:94
+#: theme/widgets/ew_subscriptions.php:85
+#: theme/widgets/hot_product.php:173
+#: theme/widgets/product_categories.php:213
+#: theme/widgets/recent_product_slider.php:181
+#: theme/widgets/related_upsell_product.php:239
+#@ wpdance
+msgid "Enter your title"
+msgstr "Ingresa tu título"
+
+#: theme/widgets/ew_social.php:96
+#@ wpdance
+msgid "Enter your description"
+msgstr "Ingresa tu descripción"
+
+#: theme/widgets/ew_social.php:99
+#: theme/widgets/ew_subscriptions.php:92
+#@ wpdance
+msgid "Enter your Feedburner ID"
+msgstr "Ingresa tu ID de Feedburner"
+
+#: theme/widgets/ew_social.php:101
+#@ wpdance
+msgid "Enter your Twitter ID"
+msgstr "Ingresa tu ID de Twitter"
+
+#: theme/widgets/ew_social.php:103
+#@ wpdance
+msgid "Enter your Facebook ID"
+msgstr "Ingresa tu ID de Facebook"
+
+#: theme/widgets/ew_social.php:105
+#@ wpdance
+msgid "Enter your Google Plus ID"
+msgstr "Ingresa tu ID de Google+"
+
+#: theme/widgets/ew_social.php:107
+#@ wpdance
+msgid "Enter your Flickr ID"
+msgstr "Ingresa tu ID de Flickr"
+
+#: theme/widgets/ew_subscriptions.php:88
+#@ wpdance
+msgid "Enter your Intro Text"
+msgstr "Ingresa el texto de tu Intro"
+
+#: theme/widgets/ew_subscriptions.php:90
+#@ wpdance
+msgid "Enter your Button"
+msgstr "Ingresa tu botón"
+
+#: woocommerce/checkout/form-checkout.php:72
+#: woocommerce/checkout/form-checkout.php:129
+#: woocommerce/checkout/form-checkout.php:144
+#: woocommerce/checkout/form-checkout.php:159
+#@ wpdance
+msgid "Continue"
+msgstr "Continuar"
+
+#: archive.php:21
+#, php-format
+#@ wpdance
+msgid "Search Results for : %s"
+msgstr "Resultados de Búsqueda para: %s"
+
+#: archive.php:57
+#, php-format
+#@ wpdance
+msgid "Tag : %s"
+msgstr "Etiqueta: %s"
+
+#: framework/admin/ajax/epanel.php:350
+#: framework/functions/theme_sidebar.php:231
+#, php-format
+#@ wpdance
+msgid "%s Widget Area"
+msgstr ""
+
+#: framework/admin/ajax/epanel.php:352
+#: framework/functions/theme_sidebar.php:233
+#, php-format
+#@ wpdance
+msgid "%s sidebar widget area"
+msgstr ""
+
+#: framework/admin/template/epanel/advertisement.php:79
+#@ wpdance
+msgid "Enable or disable header advertisement"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:356
+#@ wpdance
+msgid "Enable/Disable The Frontend Preview Panel."
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:380
+#@ wpdance
+msgid "Change Site Layout Style.Box Style going to support custom Background and Color"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:404
+#@ wpdance
+msgid "Change font.Include more than 500 fonts from google"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:81
+#: framework/admin/template/epanel/general.php:82
+#@ wpdance
+msgid "Custom Image Size"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:82
+#@ wpdance
+msgid "Change Your Custom Image Size.The Slider Item use this as params.After change image size,you have to regen thumbnail by going to \"Tool => Regen. Thumbnails\""
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:116
+#@ wpdance
+msgid "Sidebar Contact Content,parse your contact form 7 shortcode here.If you dont have one.Install pluggin Contact Form 7.Find Contact Menu on the left and create your own form"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:191
+#@ wpdance
+msgid "Change Footer Copyright Text"
+msgstr ""
+
+#: framework/admin/template/epanel/mega-menu.php:44
+#@ wpdance
+msgid "Config Text Label For Mobile Menu"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:84
+#@ wpdance
+msgid "Proceed to Checkout"
+msgstr "Continuar a la Caja"
+
+#: woocommerce/cart/shipping-calculator.php:76
+#@ wpdance
+msgid "City"
+msgstr "Ciudad"
+
+#: archive-portfolio.php:27
+#@ wpdance
+msgid "Portfolio Archives"
+msgstr "Archivos de Portafolio"
+
+#: framework/admin/template/custom_fields/page_configuration.php:188
+#@ wpdance
+msgid "Columns(For Portfolio Template)"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:196
+#@ wpdance
+msgid "Filterable(For Portfolio Template)"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:205
+#@ wpdance
+msgid "Hide New Product"
+msgstr "Esconder Producto Nuevo"
+
+#: framework/admin/template/custom_fields/video.php:7
+#@ wpdance
+msgid "Enter your project url  "
+msgstr ""
+
+#: framework/admin/template/custom_fields/video.php:10
+#@ wpdance
+msgid "Enter a video link (Vimeo,Youtube) "
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:128
+#: framework/admin/template/epanel/general.php:129
+#@ wpdance
+msgid "Social Links"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:129
+#@ wpdance
+msgid "Config social links as facebook, twitter, vimeo, flickr"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:133
+#@ wpdance
+msgid "Facebook link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:137
+#@ wpdance
+msgid "Twitter link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:141
+#@ wpdance
+msgid "Rss link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:145
+#@ wpdance
+msgid "Pinterest link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:149
+#@ wpdance
+msgid "Google link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:161
+#: framework/admin/template/epanel/general.php:162
+#@ wpdance
+msgid "Payment Links"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:162
+#@ wpdance
+msgid "Config Payment Link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:166
+#@ wpdance
+msgid "Visa link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:170
+#@ wpdance
+msgid "MasterCard link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:174
+#@ wpdance
+msgid "AmericanExpress link"
+msgstr ""
+
+#: framework/admin/template/epanel/general.php:178
+#@ wpdance
+msgid "Paypal link"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:134
+#@ wpdance
+msgid "The first footer widget area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:143
+#@ wpdance
+msgid "The second footer widget area 1"
+msgstr ""
+
+#: theme/widgets/hot_product.php:6
+#@ wpdance
+msgid "Show Hot Products"
+msgstr ""
+
+#: theme/widgets/hot_product.php:7
+#@ wpdance
+msgid "WD - Hot Products"
+msgstr ""
+
+#: theme/widgets/hot_product.php:12
+#@ wpdance
+msgid "Hot Products"
+msgstr "Productos Calientes"
+
+#: framework/widgets/wd_layered_nav.php:31
+#@ wpdance
+msgid "Shows a custom attribute in a widget which lets you narrow down the list of products when viewing product categories."
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:33
+#@ wpdance
+msgid "Wd Layered Nav"
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:100
+#, php-format
+#@ wpdance
+msgid "Any %s"
+msgstr "Cualquiera %s"
+
+#: framework/widgets/wd_layered_nav.php:491
+#@ wpdance
+msgid "Attribute:"
+msgstr "Atributo:"
+
+#: framework/widgets/wd_layered_nav.php:502
+#@ wpdance
+msgid "Display Type:"
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:504
+#@ wpdance
+msgid "List"
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:505
+#@ wpdance
+msgid "Dropdown"
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:506
+#@ wpdance
+msgid "CheckBox"
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:509
+#@ wpdance
+msgid "Query Type:"
+msgstr ""
+
+#: framework/widgets/wd_layered_nav.php:511
+#@ wpdance
+msgid "AND"
+msgstr "Y"
+
+#: framework/widgets/wd_layered_nav.php:512
+#@ wpdance
+msgid "OR"
+msgstr "O"
+
+#: single-portfolio.php:123
+#, php-format
+#@ wpdance
+msgid "%2$s"
+msgstr ""
+
+#: admin/functions/functions.options.php:2742
+#: framework/functions/custom_style.php:265
+#: single-portfolio.php:187
+#@ wpdance
+msgid "Related Posts"
+msgstr "Publicaciones Relacionadas"
+
+#: woocommerce/cart/cart.php:26
+#: woocommerce/checkout/review-order.php:21
+#@ wpdance
+msgid "Items"
+msgstr "Artículos"
+
+#: woocommerce/cart/cart.php:167
+#@ wpdance
+msgid "Enter your coupon code if your have one"
+msgstr "Ingresa el código de tu cupón si tienes uno"
+
+#: woocommerce/cart/mini-cart.php:56
+#@ wpdance
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:69
+#@ wpdance
+msgid "View Cart"
+msgstr "Ver Carrito"
+
+#: woocommerce/cart/cart-totals.php:92
+#, php-format
+#@ wpdance
+msgid " (taxes estimated for %s)"
+msgstr "(Impuestos estimados para %s)"
+
+#: woocommerce/cart/cart-totals.php:95
+#, php-format
+#@ wpdance
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "Nota: Envío e impuestos son estimados%s y serán actualizados en la caja basados en tu información de cobro y envío."
+
+#: woocommerce/cart/cart-shipping.php:70
+#: woocommerce/cart/cart-shipping.php:78
+#@ wpdance
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr "Por favor contáctanos si requieres asistencia o deseas llegar a un acuerdo alternativo."
+
+#: woocommerce/loop/orderby.php:20
+#@ wpdance
+msgid "Popularity"
+msgstr "Popularidad"
+
+#: woocommerce/loop/orderby.php:21
+#@ wpdance
+msgid "Average rating"
+msgstr "Calificación promedio"
+
+#: woocommerce/loop/orderby.php:22
+#@ wpdance
+msgid "Newness"
+msgstr "Lo Más Nuevo"
+
+#: woocommerce/loop/orderby.php:23
+#@ wpdance
+msgid "Price: low to high"
+msgstr "Precio: Bajo a Alto"
+
+#: woocommerce/loop/orderby.php:24
+#@ wpdance
+msgid "Price: high to low"
+msgstr "Precio: Alto a Bajo"
+
+#: woocommerce/global/form-login.php:33
+#@ wpdance
+msgid "Forgot your Password?"
+msgstr "¿Olvidaste tu Contraseña?"
+
+#: admin/classes/class.options_machine.php:582
+#@ wpdance
+msgid "Last Backup : "
+msgstr "Última Copia de seguridad :"
+
+#: admin/front-end/options.php:46
+#: admin/front-end/options.php:71
+#@ wpdance
+msgid "Save All Changes"
+msgstr "Guardar Todos los Cambios"
+
+#: admin/front-end/options.php:72
+#@ wpdance
+msgid "Options Reset"
+msgstr "Restablecer Opciones"
+
+#: admin/functions/functions.options.php:2390
+#: framework/functions/custom_style.php:232
+#@ wpdance
+msgid "RELATED ITEMS"
+msgstr "ARTÍCULOS RELACIONADOS"
+
+#: admin/functions/functions.options.php:2415
+#: framework/functions/custom_style.php:234
+#@ wpdance
+msgid "YOU MAY ALSO LIKE"
+msgstr "TAMBIÉN TE PUEDE GUSTAR"
+
+#: admin/functions/functions.options.php:2431
+#: framework/functions/custom_style.php:236
+#@ wpdance
+msgid "Share thist"
+msgstr "Compartir"
+
+#: admin/functions/functions.options.php:2524
+#: framework/functions/custom_style.php:245
+#@ wpdance
+msgid "Custom Tab"
+msgstr ""
+
+#: admin/functions/functions.options.php:2759
+#: framework/functions/custom_style.php:267
+#@ wpdance
+msgid "Comment"
+msgstr "Comentario"
+
+#: archive-portfolio.php:185
+#@ wpdance
+msgid "Project"
+msgstr "Proyecto"
+
+#: archive.php:16
+#, php-format
+#@ wpdance
+msgid "welcome to  %s"
+msgstr "Bienvenido a %s"
+
+#: content.php:47
+#@ wpdance
+msgid " comment(s)"
+msgstr "Comentario(s)"
+
+#: content.php:60
+#@ wpdance
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: framework/admin/template/custom_fields/page_configuration.php:131
+#@ wpdance
+msgid "Product Slider Columns"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:142
+#@ wpdance
+msgid "Product Slider Title"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:167
+#@ wpdance
+msgid "Layer Slider"
+msgstr ""
+
+#: framework/admin/template/epanel/custom-interface.php:380
+#@ wpdance
+msgid " Site Layout "
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:33
+#: woocommerce/myaccount/form-login.php:88
+#@ wpdance
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: framework/functions/woo-account.php:74
+#@ wpdance
+msgid "* Required"
+msgstr "* Requerido"
+
+#: framework/functions/woo-account.php:47
+#@ wpdance
+msgid "/"
+msgstr ""
+
+#: framework/functions/woo-account.php:132
+#@ wpdance
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr "<strong>ERROR</strong>: Usuario inválido o contraseña incorrecta."
+
+#: framework/functions/woo-hook.php:123
+#@ wpdance
+msgid "Sku:"
+msgstr ""
+
+#: framework/functions/woo-hook.php:773
+#@ wpdance
+msgid "Write review for this product"
+msgstr "Escribe una reseña para este producto"
+
+#: framework/functions/woo-hook.php:849
+#@ wpdance
+msgid "Add to Cart"
+msgstr "Añadir al Carrito"
+
+#: framework/functions/woo-hook.php:883
+#@ wpdance
+msgid "Account username"
+msgstr "Usuario de la cuenta"
+
+#: framework/functions/woo-hook.php:884
+#@ wpdance
+msgctxt "placeholder"
+msgid "Username"
+msgstr "Usuario"
+
+#: framework/functions/woo-hook.php:888
+#@ wpdance
+msgid "Account password"
+msgstr "Contraseña de la cuenta"
+
+#: framework/functions/woo-hook.php:889
+#: framework/functions/woo-hook.php:894
+#@ wpdance
+msgctxt "placeholder"
+msgid "Password"
+msgstr "Contraseña"
+
+#: theme/widgets/best_selling_product.php:6
+#@ wpdance
+msgid "Show Best Selling Products"
+msgstr ""
+
+#: theme/widgets/best_selling_product.php:7
+#@ wpdance
+msgid "WD - Best Selling Products"
+msgstr ""
+
+#: theme/widgets/best_selling_product.php:17
+#@ wpdance
+msgid "Best Selling Products"
+msgstr "Productos Más Vendidos"
+
+#: framework/widgets/emads.php:74
+#@ wpdance
+msgid "If you dont special the image width and height,system will use image size"
+msgstr ""
+
+#: theme/widgets/sale_product.php:6
+#@ wpdance
+msgid "Show On Sale Products"
+msgstr ""
+
+#: theme/widgets/sale_product.php:7
+#@ wpdance
+msgid "WD - Sale Products"
+msgstr ""
+
+#: theme/widgets/sale_product.php:12
+#@ wpdance
+msgid "On Sale Products"
+msgstr "Productos en Venta"
+
+#: theme/widgets/sale_product.php:90
+#@ wpdance
+msgid "Title for sale tab:"
+msgstr ""
+
+#: theme/widgets/sale_product.php:93
+#@ wpdance
+msgid "The number of sale post"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:33
+#@ wpdance
+msgid "Portfolio"
+msgstr ""
+
+#: single-portfolio.php:104
+#: single.php:75
+#@ wpdance
+msgid "comment(s)"
+msgstr "comentario(s)"
+
+#: single.php:88
+#, php-format
+#@ wpdance
+msgid "<span class=\"%1$s heading-title\"> Categories:"
+msgstr "<span class=\"%1$s heading-title\"> Categorías:"
+
+#: templates/related_posts.php:55
+#@ wpdance
+msgid "Sorry,no post found!"
+msgstr "¡Lo sentimos, no se encontró la publicación!"
+
+#: woocommerce/cart/cart-empty.php:16
+#@ wpdance
+msgid "Your cart is currently empty."
+msgstr "Tu carrito se encuentra vacío."
+
+#: woocommerce/cart/cart-empty.php:20
+#@ wpdance
+msgid "Return To Shop"
+msgstr "Regresar a la Tienda"
+
+#: woocommerce/cart/cart-shipping.php:17
+#, php-format
+#@ wpdance
+msgid "Shipping #%d"
+msgstr "Envío #%d"
+
+#: woocommerce/cart/cart-shipping.php:56
+#@ wpdance
+msgid "No shipping methods were found; please recalculate your shipping or continue to checkout and enter your full address to see if there is shipping available to your location."
+msgstr "No se encontraron métodos de envío; por favor vuelve a calcular tu envío o continua a la caja e ingresa tu dirección completa para ver si se encuentra envío disponible a tu localización."
+
+#: woocommerce/cart/cart-shipping.php:60
+#@ wpdance
+msgid "Please fill in your details to see available shipping methods."
+msgstr "Por favor llena la información para ver métodos de envío disponibles."
+
+#: woocommerce/cart/cart-shipping.php:70
+#: woocommerce/cart/cart-shipping.php:78
+#, php-format
+#@ wpdance
+msgid "Sorry, shipping is unavailable %s."
+msgstr "Lo sentimos, el envío no se encuentra disponible %s."
+
+#: woocommerce/cart/cart-totals.php:27
+#: woocommerce/cart/cart-totals.php:67
+#@ wpdance
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#: woocommerce/cart/shipping-calculator.php:88
+#@ wpdance
+msgid "Apply Shipping"
+msgstr "Aplica Envío"
+
+#: woocommerce/checkout/form-checkout.php:47
+#@ wpdance
+msgid "Checkout Method"
+msgstr "Método de Pedido"
+
+#: woocommerce/checkout/form-checkout.php:53
+#@ wpdance
+msgid "New customer"
+msgstr "Cliente nuevo"
+
+#: woocommerce/checkout/form-checkout.php:57
+#@ wpdance
+msgid "Checkout as a Guest"
+msgstr "Pedido como Invitado"
+
+#: woocommerce/checkout/form-checkout.php:61
+#@ wpdance
+msgid "Create new account"
+msgstr "Crear cuenta nueva"
+
+#: woocommerce/checkout/form-checkout.php:168
+#@ wpdance
+msgid "Your order"
+msgstr "Tu orden"
+
+#: woocommerce/checkout/form-login.php:14
+#@ wpdance
+msgid "Returning customer?"
+msgstr "¿Cliente de vuelta?"
+
+#: woocommerce/checkout/form-shipping.php:30
+#@ wpdance
+msgid "Ship to a different address?"
+msgstr "¿Enviar a otra dirección?"
+
+#: woocommerce/global/breadcrumb.php:72
+#@ wpdance
+msgid "Products tagged &ldquo;"
+msgstr "Productos etiquetados &ldquo;"
+
+#: woocommerce/global/breadcrumb.php:100
+#: woocommerce/global/breadcrumb.php:202
+#@ wpdance
+msgid "Search results for &ldquo;"
+msgstr "Resultados de búsqueda para &ldquo;"
+
+#: framework/functions/breadcrumbs.php:29
+#: woocommerce/global/breadcrumb.php:156
+#@ wpdance
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:206
+#@ wpdance
+msgid "Posts tagged &ldquo;"
+msgstr "Publicaciones etiquetadas &ldquo;"
+
+#: woocommerce/global/breadcrumb.php:211
+#@ wpdance
+msgid "Author:"
+msgstr "Autor:"
+
+#: woocommerce/loop/result-count.php:28
+#@ wpdance
+msgid "Showing the single result"
+msgstr "Mostrando el único resultado"
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+#@ wpdance
+msgid "Show all %d Result"
+msgstr "Mostrar todos %s Resultados"
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ wpdance
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d Result"
+msgstr "Mostrando %1$d&ndash;%2$d de %3$d Resultados"
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+#@ wpdance
+msgid "Sorry, it seems that there are no payment methods which support adding a new payment method. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Lo sentimos, parece que no existen métodos de pago que permitan añadir un nuevo método de pago. Por favor contáctenos si requiere asistencia o desea hacer un acuerdo alternativo."
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+#@ wpdance
+msgid "Add Payment Method"
+msgstr "Añadir Método de Pago"
+
+#: woocommerce/myaccount/form-edit-account.php:25
+#@ wpdance
+msgid "First name"
+msgstr "Nombre"
+
+#: woocommerce/myaccount/form-edit-account.php:29
+#@ wpdance
+msgid "Last name"
+msgstr "Apellido"
+
+#: woocommerce/myaccount/form-edit-account.php:50
+#@ wpdance
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: woocommerce/myaccount/form-login.php:37
+#@ wpdance
+msgid "Username or email address"
+msgstr "Usuario o dirección de correo electrónico"
+
+#: woocommerce/myaccount/form-login.php:52
+#@ wpdance
+msgid "Remember me"
+msgstr "Recordarme"
+
+#: woocommerce/myaccount/form-login.php:81
+#@ wpdance
+msgid "Username"
+msgstr "Usuario"
+
+#: woocommerce/myaccount/form-login.php:104
+#@ wpdance
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+#@ wpdance
+msgid "Your User Name or Email Address"
+msgstr "Tu Usuario o Dirección de Correo Electrónico"
+
+#: woocommerce/myaccount/view-order.php:17
+#, php-format
+#@ wpdance
+msgid "Order <mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgstr "Orden <mark class=\"order-number\">%s</mark> fue colocada en <mark class=\"order-date\">%s</mark> y está <mark class=\"order-status\">%s</mark>."
+
+#: woocommerce/myaccount/view-order.php:28
+#@ wpdance
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:102
+#@ wpdance
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este producto está agotado y no disponible."
+
+#: woocommerce/single-product-reviews.php:44
+#@ wpdance
+msgid "There are no reviews yet."
+msgstr "Todavía no hay reseñas."
+
+#: woocommerce/single-product-reviews.php:67
+#@ wpdance
+msgid "Submit"
+msgstr "Enviar"
+
+#: woocommerce/single-product-reviews.php:73
+#@ wpdance
+msgid "Your Rating"
+msgstr "Tu Calificación"
+
+#: woocommerce/single-product-reviews.php:92
+#@ wpdance
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Sólo clientes registrados que hayan comprado este producto pueden dejar una reseña."
+
+#: bbpress/loop-forums.php:21
+#@ wpdance
+msgid "Forum"
+msgstr "Foro"
+
+#: bbpress/loop-forums.php:22
+#@ wpdance
+msgid "Topics"
+msgstr "Temas"
+
+#: bbpress/loop-forums.php:23
+#: bbpress/loop-replies.php:32
+#: bbpress/loop-replies.php:70
+#: bbpress/loop-topics.php:21
+#@ wpdance
+msgid "Replies"
+msgstr "Respuestas"
+
+#: bbpress/loop-forums.php:23
+#: bbpress/loop-replies.php:24
+#: bbpress/loop-replies.php:66
+#: bbpress/loop-topics.php:21
+#@ wpdance
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: bbpress/loop-forums.php:24
+#: bbpress/loop-topics.php:22
+#@ wpdance
+msgid "Freshness"
+msgstr "Lo Más Fresco"
+
+#: content.php:109
+#@ wpdance
+msgid "View more"
+msgstr "Ver más"
+
+#: framework/abstract.php:123
+#@ wpdance
+msgid "Mobile Navigation"
+msgstr "Navegación Móvil"
+
+#: framework/functions/custom_functions.php:160
+#@ wpdance
+msgid "All Categories"
+msgstr "Todas las Categorías"
+
+#: framework/functions/comment.php:27
+#@ wpdance
+msgid "Your name"
+msgstr "Tu nombre"
+
+#: framework/functions/comment.php:29
+#@ wpdance
+msgid "Your email"
+msgstr "Tu correo electrónico"
+
+#: framework/functions/comment.php:50
+#@ wpdance
+msgid "Be first to comment"
+msgstr "Sé el primero en comentar"
+
+#: framework/functions/comment.php:53
+#@ wpdance
+msgid "Sent"
+msgstr "Enviado"
+
+#: framework/functions/custom_functions.php:332
+#@ wpdance
+msgid "Account"
+msgstr "Cuenta"
+
+#: framework/functions/custom_functions.php:338
+#@ wpdance
+msgid "Edit account"
+msgstr "Editar cuenta"
+
+#: framework/functions/custom_functions.php:342
+#@ wpdance
+msgid "Forgotten Password"
+msgstr "Contraseña Olvidada"
+
+#: framework/functions/custom_functions.php:344
+#: framework/functions/woo-wishlist.php:40
+#@ wpdance
+msgid "Wishlist"
+msgstr "Lista de Deseos"
+
+#: framework/functions/custom_term.php:178
+#: framework/functions/custom_term.php:233
+#@ wpdance
+msgid "Tag Layout"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:7
+#@ wpdance
+msgid "Primary Widget Area Left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:9
+#@ wpdance
+msgid "The primary left sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:16
+#@ wpdance
+msgid "Primary Widget Area Right"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:18
+#@ wpdance
+msgid "The primary right sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:25
+#@ wpdance
+msgid "Blog Widget Area Left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:27
+#@ wpdance
+msgid "The left widget area for blog page"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:34
+#@ wpdance
+msgid "Blog Widget Area Right"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:36
+#@ wpdance
+msgid "The right widget area for blog page"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:43
+#@ wpdance
+msgid "Product Category Widget Area Left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:45
+#@ wpdance
+msgid "The Product Category left sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:52
+#@ wpdance
+msgid "Product Category Widget Area Right"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:54
+#@ wpdance
+msgid "The Product Category right sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:61
+#@ wpdance
+msgid "Product Detail Widget Area Left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:63
+#@ wpdance
+msgid "The Product detail left sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:70
+#@ wpdance
+msgid "Product Detail Widget Area Right"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:72
+#@ wpdance
+msgid "The Product detail right sidebar widget area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:114
+#@ wpdance
+msgid "Top Content Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:116
+#@ wpdance
+msgid "The widget area top content"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:132
+#@ wpdance
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:141
+#@ wpdance
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:150
+#@ wpdance
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:152
+#@ wpdance
+msgid "The third footer widget area 1 (Footer Subscrible)"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:159
+#@ wpdance
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:161
+#@ wpdance
+msgid "The fourth footer widget area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:168
+#@ wpdance
+msgid "Fifth Footer Widget Area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:170
+#@ wpdance
+msgid "The fifth footer widget area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:177
+#@ wpdance
+msgid "Fifth Footer Widget Area 2"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:179
+#@ wpdance
+msgid "The fifth footer widget area 2"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:186
+#@ wpdance
+msgid "Fifth Footer Widget Area 3"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:188
+#@ wpdance
+msgid "The fifth footer widget area 3"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:195
+#@ wpdance
+msgid "Fifth Footer Widget Area 4"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:197
+#@ wpdance
+msgid "The fifth footer widget area 4"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:204
+#@ wpdance
+msgid "Sixth Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:206
+#@ wpdance
+msgid "The sixth footer widget area 1"
+msgstr ""
+
+#: framework/functions/wdmenus-init.php:106
+#@ wpdance
+msgid "WD Mega Menu Widget Area 1"
+msgstr ""
+
+#: framework/functions/wdmenus-init.php:115
+#, php-format
+#@ wpdance
+msgid "WD Mega Menu Widget Area %d"
+msgstr ""
+
+#: framework/functions/woo-account.php:150
+#: framework/functions/woo-account.php:164
+#@ wpdance
+msgid "Password and confirm password do not match."
+msgstr "Contraseña y confirmación de contraseña no coinciden."
+
+#: framework/functions/woo-cart.php:120
+#@ wpdance
+msgid "Subtotal :"
+msgstr ""
+
+#: framework/functions/woo-hook.php:74
+#@ wpdance
+msgid "Share "
+msgstr "Comparte "
+
+#: framework/functions/woo-hook.php:92
+#: theme/widgets/ew_social.php:50
+#@ wpdance
+msgid "Vimeo"
+msgstr ""
+
+#: framework/functions/woo-hook.php:459
+#@ wpdance
+msgid "Categories : "
+msgstr "Categorías: "
+
+#: framework/functions/woo-hook.php:524
+#@ wpdance
+msgid "feature"
+msgstr "destacado"
+
+#: framework/functions/woo-hook.php:528
+#@ wpdance
+msgid "save off"
+msgstr "ahorro"
+
+#: framework/functions/woo-hook.php:535
+#@ wpdance
+msgid "new"
+msgstr "nuevo"
+
+#: framework/functions/woo-hook.php:539
+#@ wpdance
+msgid "hot"
+msgstr "caliente"
+
+#: framework/functions/woo-hook.php:557
+#@ wpdance
+msgid "New"
+msgstr "Nuevo"
+
+#: framework/functions/woo-hook.php:565
+#: framework/functions/woo-hook.php:567
+#@ wpdance
+msgid "Save off"
+msgstr "Ahorro"
+
+#: framework/functions/woo-hook.php:571
+#@ wpdance
+msgid "Feature"
+msgstr "Destacado"
+
+#: framework/functions/woo-hook.php:676
+#@ wpdance
+msgid "Descriptions"
+msgstr "Descripciones"
+
+#: framework/functions/woo-hook.php:867
+#@ wpdance
+msgid "Twitter ID"
+msgstr ""
+
+#: framework/functions/woo-hook.php:893
+#@ wpdance
+msgid "Confirm account password"
+msgstr "Confirmar contraseña de la cuenta"
+
+#: framework/widgets/twitterupdate.php:82
+#@ wpdance
+msgid " by "
+msgstr "por "
+
+#: framework/widgets/wd_recent_post.php:244
+#@ wpdance
+msgid "Limit post"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:246
+#@ wpdance
+msgid "Limit excerpt word"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:250
+#@ wpdance
+msgid "Show thumbnail image"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:254
+#@ wpdance
+msgid "Show post title"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:258
+#@ wpdance
+msgid "Show post excerpt"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:262
+#@ wpdance
+msgid "Show date time"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:266
+#@ wpdance
+msgid "Show author"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:270
+#@ wpdance
+msgid "Show read more button"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:275
+#: theme/widgets/bbpress_recent_posts.php:158
+#: theme/widgets/best_selling_product.php:172
+#: theme/widgets/hot_product.php:186
+#: theme/widgets/popular_product_by_categories.php:330
+#: theme/widgets/recent_comments_custom.php:215
+#: theme/widgets/recent_product_slider.php:220
+#: theme/widgets/related_upsell_product.php:291
+#@ wpdance
+msgid "Slider mode"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:279
+#: theme/widgets/bbpress_recent_posts.php:162
+#: theme/widgets/popular_product_by_categories.php:334
+#: theme/widgets/recent_comments_custom.php:219
+#: theme/widgets/related_upsell_product.php:295
+#@ wpdance
+msgid "Slider - Show navigation button"
+msgstr ""
+
+#: framework/widgets/wd_recent_post.php:283
+#: theme/widgets/bbpress_recent_posts.php:166
+#: theme/widgets/popular_product_by_categories.php:338
+#: theme/widgets/recent_comments_custom.php:223
+#: theme/widgets/related_upsell_product.php:299
+#@ wpdance
+msgid "Slider - Auto play"
+msgstr ""
+
+#: theme/functions/filter_theme.php:218
+#@ wpdance
+msgid "search entries store ..."
+msgstr "buscar entradas en la tienda ..."
+
+#: theme/widgets/bbpress_recent_posts.php:68
+#: theme/widgets/recent_comments_custom.php:77
+#@ wpdance
+msgid "View Tweet"
+msgstr "Ver Tweet"
+
+#: theme/widgets/recent_comments_custom.php:183
+#@ wpdance
+msgid "All Posts"
+msgstr "Todas las Publicaciones"
+
+#: theme/widgets/recent_comments_custom.php:193
+#@ wpdance
+msgid "Post type"
+msgstr ""
+
+#: theme/widgets/recent_comments_custom.php:202
+#@ wpdance
+msgid "Show Avatar"
+msgstr ""
+
+#: theme/widgets/recent_comments_custom.php:206
+#@ wpdance
+msgid "Show Author"
+msgstr ""
+
+#: theme/widgets/recent_comments_custom.php:210
+#@ wpdance
+msgid "Show Twitter"
+msgstr ""
+
+#: theme/widgets/recent_comments_custom.php:226
+#@ wpdance
+msgid "Slider - Number of Comments per slide"
+msgstr ""
+
+#: theme/widgets/ew_social.php:50
+#@ wpdance
+msgid "Watch Us"
+msgstr "Venos"
+
+#: theme/widgets/ew_social.php:109
+#@ wpdance
+msgid "Enter your Vimeo ID"
+msgstr "Ingresa tu ID de Vimeo"
+
+#: theme/widgets/ew_social.php:112
+#@ wpdance
+msgid "Show tooltip"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:9
+#@ wpdance
+msgid "Display WooCommerce Popular Product by Categories"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:10
+#@ wpdance
+msgid "WD - Popular Product By Categories"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:280
+#: theme/widgets/tab_product.php:367
+#@ wpdance
+msgid "Select Categories"
+msgstr "Seleccionar Categorías"
+
+#: theme/widgets/popular_product_by_categories.php:298
+#@ wpdance
+msgid "Number of products per category"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:341
+#@ wpdance
+msgid "Number of products per category per slide"
+msgstr ""
+
+#: theme/widgets/product_categories.php:9
+#@ wpdance
+msgid "Display Woocommerce Product Categories"
+msgstr ""
+
+#: theme/widgets/product_categories.php:10
+#@ wpdance
+msgid "WD - Product Categories"
+msgstr ""
+
+#: theme/widgets/product_categories.php:217
+#@ wpdance
+msgid "Show post count"
+msgstr ""
+
+#: theme/widgets/product_categories.php:221
+#@ wpdance
+msgid "Show sub categories"
+msgstr ""
+
+#: theme/widgets/bbpress_forums.php:136
+#: theme/widgets/product_categories.php:225
+#@ wpdance
+msgid "Dropdown mode"
+msgstr ""
+
+#: theme/widgets/product_categories.php:228
+#@ wpdance
+msgid "Number of highest parent categories to show"
+msgstr ""
+
+#: theme/widgets/product_categories.php:232
+#@ wpdance
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: theme/widgets/product_categories.php:235
+#@ wpdance
+msgid "Slug"
+msgstr ""
+
+#: theme/widgets/product_categories.php:236
+#@ wpdance
+msgid "Number product"
+msgstr ""
+
+#: theme/widgets/product_categories.php:238
+#@ wpdance
+msgid "None"
+msgstr ""
+
+#: theme/widgets/product_categories.php:244
+#: theme/widgets/testimonial.php:194
+#@ wpdance
+msgid "Ascending"
+msgstr ""
+
+#: theme/widgets/product_categories.php:245
+#: theme/widgets/testimonial.php:193
+#@ wpdance
+msgid "Descending"
+msgstr ""
+
+#: theme/widgets/recent_product_slider.php:9
+#@ wpdance
+msgid "Display WooCommerce Recent Product Slider"
+msgstr ""
+
+#: theme/widgets/recent_product_slider.php:10
+#@ wpdance
+msgid "WD - Recent Product Slider"
+msgstr ""
+
+#: theme/widgets/best_selling_product.php:162
+#: theme/widgets/hot_product.php:176
+#: theme/widgets/recent_product_slider.php:184
+#: theme/widgets/related_upsell_product.php:249
+#@ wpdance
+msgid "A number of products"
+msgstr ""
+
+#: theme/widgets/best_selling_product.php:166
+#: theme/widgets/hot_product.php:180
+#: theme/widgets/recent_product_slider.php:188
+#: theme/widgets/related_upsell_product.php:302
+#@ wpdance
+msgid "A number of products per slide"
+msgstr ""
+
+#: theme/widgets/best_selling_product.php:176
+#: theme/widgets/hot_product.php:190
+#: theme/widgets/recent_product_slider.php:224
+#@ wpdance
+msgid "Show navigation button"
+msgstr ""
+
+#: theme/widgets/best_selling_product.php:180
+#: theme/widgets/hot_product.php:194
+#: theme/widgets/recent_product_slider.php:228
+#@ wpdance
+msgid "Auto play"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:9
+#@ wpdance
+msgid "Display WooCommerce Related or Upsell product. It only is shown in Single Product page"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:10
+#@ wpdance
+msgid "WD - Related Upsell Product"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:242
+#@ wpdance
+msgid "Product type"
+msgstr "Tipo de Producto"
+
+#: theme/widgets/related_upsell_product.php:244
+#@ wpdance
+msgid "Related Product"
+msgstr "Producto Relacionado"
+
+#: theme/widgets/related_upsell_product.php:245
+#@ wpdance
+msgid "Upsell Product"
+msgstr "Aumentar la venta del Producto"
+
+#: theme/widgets/related_upsell_product.php:254
+#@ wpdance
+msgid "Show product image"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:308
+#: theme/widgets/recent_product_slider.php:198
+#: theme/widgets/related_upsell_product.php:258
+#: theme/widgets/tab_product.php:397
+#@ wpdance
+msgid "Show categories"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:312
+#: theme/widgets/recent_product_slider.php:202
+#: theme/widgets/related_upsell_product.php:262
+#: theme/widgets/tab_product.php:401
+#@ wpdance
+msgid "Show product title"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:266
+#@ wpdance
+msgid "Show product price"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:270
+#@ wpdance
+msgid "Show product short description"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:274
+#@ wpdance
+msgid "Show Add to cart button"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:278
+#@ wpdance
+msgid "Show product rating"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:282
+#@ wpdance
+msgid "Show wishlist button"
+msgstr ""
+
+#: theme/widgets/related_upsell_product.php:286
+#@ wpdance
+msgid "Show compare button"
+msgstr ""
+
+#: theme/widgets/testimonial.php:9
+#@ wpdance
+msgid "Display Testimonial - Use Testimonial By Wootheme Plugin"
+msgstr ""
+
+#: theme/widgets/testimonial.php:10
+#@ wpdance
+msgid "WD - Testimonials"
+msgstr ""
+
+#: theme/widgets/testimonial.php:86
+#@ wpdance
+msgid "VIEW TWEET"
+msgstr "VER TWEET"
+
+#: theme/widgets/testimonial.php:187
+#@ wpdance
+msgid "No order"
+msgstr "Sin orden"
+
+#: theme/widgets/testimonial.php:211
+#@ wpdance
+msgid "Order by:"
+msgstr "Ordenar por:"
+
+#: theme/widgets/testimonial.php:219
+#@ wpdance
+msgid "Order Direction:"
+msgstr "Dirección de Orden:"
+
+#: theme/widgets/testimonial.php:228
+#@ wpdance
+msgid "Display Title"
+msgstr ""
+
+#: theme/widgets/testimonial.php:232
+#@ wpdance
+msgid "Display Avatar"
+msgstr ""
+
+#: theme/widgets/testimonial.php:236
+#@ wpdance
+msgid "Display Twitter"
+msgstr ""
+
+#: theme/widgets/testimonial.php:241
+#@ wpdance
+msgid "All Category"
+msgstr "Todo en Categoría"
+
+#: theme/widgets/testimonial.php:248
+#@ wpdance
+msgid "Specific IDs:"
+msgstr "IDs Específicos:"
+
+#: theme/widgets/testimonial.php:250
+#@ wpdance
+msgid "Display a list specific testimonial. Add commas between IDs"
+msgstr ""
+
+#: theme/widgets/testimonial.php:254
+#@ wpdance
+msgid "Slider Mode"
+msgstr ""
+
+#: theme/widgets/testimonial.php:258
+#@ wpdance
+msgid "Slider - Show Navigation"
+msgstr ""
+
+#: theme/widgets/testimonial.php:262
+#@ wpdance
+msgid "Slider - Auto Play"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:6
+#@ wpdance
+msgid "Present your tag"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:7
+#@ wpdance
+msgid "WD - Tag Cloud"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:18
+#@ wpdance
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: theme/widgets/wd_tag_cloud.php:177
+#@ wpdance
+msgid "Post tag"
+msgstr "Etiqueta de la publicación"
+
+#: theme/widgets/wd_tag_cloud.php:181
+#@ wpdance
+msgid "Post category"
+msgstr "Categoría de la publicación"
+
+#: theme/widgets/wd_tag_cloud.php:185
+#@ wpdance
+msgid "Product tag"
+msgstr "Etiqueta del producto"
+
+#: theme/widgets/wd_tag_cloud.php:189
+#@ wpdance
+msgid "Product category"
+msgstr "Categoría del producto"
+
+#: theme/widgets/wd_tag_cloud.php:192
+#@ wpdance
+msgid "Font size:"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:193
+#@ wpdance
+msgid "Min"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:195
+#@ wpdance
+msgid "Max"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:201
+#@ wpdance
+msgid "Flash mode"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:204
+#@ wpdance
+msgid "Background color:"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:209
+#@ wpdance
+msgid "Background transparent"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:212
+#@ wpdance
+msgid "Tag color:"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:216
+#@ wpdance
+msgid "Color for gradient:"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:220
+#@ wpdance
+msgid "Highlight color:"
+msgstr ""
+
+#: theme/widgets/wd_tag_cloud.php:224
+#@ wpdance
+msgid "Speed:"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+#@ wpdance
+msgid "Order total"
+msgstr "Total de orden"
+
+#: woocommerce/cart/cart-totals.php:75
+#@ wpdance
+msgid "GrandTotal"
+msgstr "Gran Total"
+
+#: woocommerce/cart/cart.php:140
+#@ wpdance
+msgid "Back To Shop"
+msgstr "Volver a la Tienda"
+
+#: woocommerce/cart/cart.php:165
+#@ wpdance
+msgid "Discount code"
+msgstr "Código de descuento"
+
+#: woocommerce/cart/cross-sells.php:38
+#@ wpdance
+msgid "You may also like"
+msgstr "Tal vez te pueda gustar"
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ wpdance
+msgid "Caculate shipping"
+msgstr "Calcular envío"
+
+#: woocommerce/cart/shipping-calculator.php:25
+#@ wpdance
+msgid "Country"
+msgstr "País"
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:66
+#@ wpdance
+msgid "State / Province"
+msgstr "Estado / Provincia"
+
+#: woocommerce/cart/shipping-calculator.php:82
+#@ wpdance
+msgid "Zip / Postal code"
+msgstr "Zip / Código Postal"
+
+#: woocommerce/checkout/form-checkout.php:65
+#@ wpdance
+msgid ""
+"Register with us for future convenience:<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t+ Fast and easy checkout.<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t+ Easy access to your dorder history and status."
+msgstr ""
+"Registrate con nosotros para futura conveniencia:<br/>\n"
+"\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t+ Pedido rápido y fácil.<br/>\n"
+"\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t\\\t+ Acceso fácil a la historia y estatus de tu orden."
+
+#: woocommerce/checkout/form-coupon.php:23
+#@ wpdance
+msgid "Have a coupon"
+msgstr "Tengo un cupón"
+
+#: woocommerce/checkout/form-coupon.php:25
+#@ wpdance
+msgid "Click here enter code"
+msgstr "Pulsa aquí para ingresar el código"
+
+#: woocommerce/checkout/form-login.php:24
+#@ wpdance
+msgid "If you have shopped with us before, please enter your details in the boxes below.If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "Si ya has comprado con nosotros antes, por favor ingresa tus datos en los campos de abajo. Si eres nuevo cliente por favor procede a la sección de Cobro &amp; Envío."
+
+#: woocommerce/loop/rating.php:28
+#@ wpdance
+msgid "reviews"
+msgstr "reseñas"
+
+#: woocommerce/loop/rating.php:28
+#@ wpdance
+msgid "review"
+msgstr "reseña"
+
+#: woocommerce/myaccount/form-login.php:24
+#@ wpdance
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: woocommerce/myaccount/form-login.php:58
+#@ wpdance
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: woocommerce/myaccount/form-login.php:98
+#@ wpdance
+msgid "Confirm Password"
+msgstr "Confirmar Contraseña"
+
+#: woocommerce/myaccount/my-account.php:22
+#, php-format
+#@ wpdance
+msgid "Hello, <strong>%s</strong>. From your account dashboard you can view your recent orders, manage your shipping and billing addresses <div class=\"myaccount_action\"> and <a href=\"%s\">change your password</a></div>"
+msgstr "Hola, <strong>%s</strong>. Desde el tablero de tu cuenta podrás ver tus ordenes recientes, administrar tus direcciones de cobro y envío <div class=\"myaccount_action\"> y <a href=\"%s\">cambiar tu contraseña</a></div>"
+
+#: woocommerce/single-product/add-to-cart/quantity.php:12
+#@ wpdance
+msgctxt "Product quantity input tooltip"
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/single-product/sale-flash.php:21
+#@ wpdance
+msgid "Sale off"
+msgstr "Súper venta"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ wpdance
+msgid "Creator"
+msgstr "Creador"
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: bbpress/loop-topics.php:19
+#@ wpdance
+msgid "Topic"
+msgstr "Tema"
+
+#: bbpress/loop-replies.php:18
+#: bbpress/loop-replies.php:60
+#@ wpdance
+msgid "Author"
+msgstr "Autor"
+
+#: bbpress/loop-single-reply.php:40
+#@ wpdance
+msgid "Postcount "
+msgstr ""
+
+#: bbpress/loop-single-reply.php:45
+#@ wpdance
+msgid "in reply to: "
+msgstr "en respuesta a:"
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+#@ wpdance
+msgid "Started by: %1$s"
+msgstr "Iniciado por: %1$s"
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+#@ wpdance
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "en: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/loop-topics.php:20
+#@ wpdance
+msgid "Voices"
+msgstr "Voces"
+
+#: bbpress/user-details.php:20
+#, php-format
+#@ wpdance
+msgid "%s's Profile"
+msgstr "Perfil de %s"
+
+#: bbpress/user-details.php:20
+#: bbpress/user-profile.php:15
+#@ wpdance
+msgid "Profile"
+msgstr "Perfil"
+
+#: bbpress/user-details.php:26
+#, php-format
+#@ wpdance
+msgid "%s's Topics Started"
+msgstr "Temas Iniciados por %s"
+
+#: bbpress/user-details.php:26
+#@ wpdance
+msgid "Topics Started"
+msgstr "Temas Iniciados"
+
+#: bbpress/user-details.php:32
+#, php-format
+#@ wpdance
+msgid "%s's Replies Created"
+msgstr "Respuestas Creadas de %s"
+
+#: bbpress/user-details.php:32
+#@ wpdance
+msgid "Replies Created"
+msgstr "Respuestas Creadas"
+
+#: bbpress/user-details.php:39
+#, php-format
+#@ wpdance
+msgid "%s's Favorites"
+msgstr "Favoritos de %s"
+
+#: bbpress/user-details.php:39
+#@ wpdance
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: bbpress/user-details.php:49
+#, php-format
+#@ wpdance
+msgid "%s's Subscriptions"
+msgstr "Suscripciones de %s"
+
+#: bbpress/user-details.php:49
+#@ wpdance
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+#: bbpress/user-details.php:56
+#, php-format
+#@ wpdance
+msgid "Edit %s's Profile"
+msgstr "Editar Perfil de %s"
+
+#: bbpress/user-profile.php:26
+#@ wpdance
+msgid "Forum Role: "
+msgstr "Rol de Foro:"
+
+#: bbpress/user-profile.php:27
+#@ wpdance
+msgid "Topics Started: "
+msgstr "Temas Iniciados:"
+
+#: bbpress/user-profile.php:28
+#@ wpdance
+msgid "Replies Created: "
+msgstr "Respuestas Creadas:"
+
+#: framework/functions/breadcrumbs.php:25
+#: framework/functions/breadcrumbs.php:224
+#@ wpdance
+msgid "Home"
+msgstr "Inicio"
+
+#: framework/functions/breadcrumbs.php:28
+#@ wpdance
+msgid "Search results for "
+msgstr "Resultados de búsqueda para"
+
+#: framework/functions/breadcrumbs.php:30
+#@ wpdance
+msgid "Tagged "
+msgstr "Etiquetado"
+
+#: framework/functions/breadcrumbs.php:31
+#@ wpdance
+msgid "Articles posted by "
+msgstr "Artículos publicados por"
+
+#: framework/functions/breadcrumbs.php:298
+#: framework/functions/breadcrumbs.php:412
+#, php-format
+#@ wpdance
+msgid "Topic Tag: %s"
+msgstr "Etiqueta de Tema: %s"
+
+#: framework/functions/breadcrumbs.php:319
+#@ wpdance
+msgid "&laquo;"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:319
+#@ wpdance
+msgid "&raquo;"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:91
+#@ wpdance
+msgid "Forum Widget Area Left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:93
+#@ wpdance
+msgid "The forum widget area left"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:101
+#@ wpdance
+msgid "Forum Widget Area Right"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:103
+#@ wpdance
+msgid "The forum widget area right"
+msgstr ""
+
+#: theme/widgets/bbpress_forums.php:9
+#@ wpdance
+msgid "Display List Forums"
+msgstr ""
+
+#: theme/widgets/bbpress_forums.php:10
+#@ wpdance
+msgid "WD - bbPress Forums"
+msgstr ""
+
+#: theme/widgets/bbpress_recent_posts.php:9
+#@ wpdance
+msgid "Display Recent Posts of Forum"
+msgstr ""
+
+#: theme/widgets/bbpress_recent_posts.php:10
+#@ wpdance
+msgid "WD - bbPress Recent Posts"
+msgstr ""
+
+#: theme/widgets/bbpress_recent_posts.php:152
+#@ wpdance
+msgid "Limit"
+msgstr "Límite"
+
+#: framework/admin/admin.php:114
+#@ wpdance
+msgid "Select Category"
+msgstr "Seleccionar Categoría"
+
+#: framework/admin/template/custom_fields/page_configuration.php:106
+#@ wpdance
+msgid "Product Slider - Category"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:214
+#@ wpdance
+msgid "Hide Top Content Widget Area"
+msgstr ""
+
+#: framework/admin/template/custom_fields/page_configuration.php:223
+#@ wpdance
+msgid "Hide Banner Top Content Widget Area"
+msgstr ""
+
+#: framework/functions/custom_functions.php:385
+#, php-format
+#@ wpdance
+msgid "Rated %s out of 5"
+msgstr "Calificado %s sobre 5"
+
+#: framework/functions/main.php:848
+#@ wpdance
+msgid "Top"
+msgstr "Superior"
+
+#: framework/functions/theme_sidebar.php:123
+#@ wpdance
+msgid "Banner Top Content Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:125
+#@ wpdance
+msgid "The widget area banner top content"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: single-portfolio.php:111
+#@ wpdance
+msgid "Categories "
+msgstr "Categorías "
+
+#: woocommerce/myaccount/form-edit-account.php:37
+#@ wpdance
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Contraseña Actúal (deja en blanco para que no se hagan cambios)"
+
+#: woocommerce/myaccount/form-edit-account.php:41
+#@ wpdance
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Nueva contraseña (deja en blanco para que no se hagan cambios)"
+
+#: woocommerce/myaccount/form-edit-account.php:45
+#@ wpdance
+msgid "Confirm New Password"
+msgstr "Confirmar Contraseña Nueva "
+
+#: framework/widgets/wd_recent_post.php:98
+#@ wpdance
+msgid "Post by "
+msgstr "Publicado por"
+
+#: framework/widgets/wd_recent_post.php:238
+#@ wpdance
+msgid "Type to show"
+msgstr ""
+
+#: theme/widgets/ew_subscriptions.php:39
+#@ wpdance
+msgid "Enter your email address"
+msgstr "Ingresa tu dirección de correo electrónico"
+
+#: theme/widgets/popular_product_by_categories.php:304
+#: theme/widgets/recent_product_slider.php:194
+#: theme/widgets/tab_product.php:393
+#@ wpdance
+msgid "Show thumbnail"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:316
+#: theme/widgets/recent_product_slider.php:206
+#: theme/widgets/tab_product.php:405
+#@ wpdance
+msgid "Show price"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:320
+#: theme/widgets/recent_product_slider.php:210
+#: theme/widgets/tab_product.php:409
+#@ wpdance
+msgid "Show rating"
+msgstr ""
+
+#: theme/widgets/popular_product_by_categories.php:324
+#: theme/widgets/recent_product_slider.php:214
+#@ wpdance
+msgid "Show add to cart button"
+msgstr ""
+
+#: theme/widgets/tab_product.php:9
+#@ wpdance
+msgid "Display WooCommerce Product width Multi Tab"
+msgstr ""
+
+#: theme/widgets/tab_product.php:10
+#@ wpdance
+msgid "WD - Tab Product"
+msgstr ""
+
+#: theme/widgets/tab_product.php:323
+#@ wpdance
+msgid "Show New Product"
+msgstr ""
+
+#: theme/widgets/tab_product.php:326
+#@ wpdance
+msgid "New Product Tab Title"
+msgstr ""
+
+#: theme/widgets/tab_product.php:332
+#@ wpdance
+msgid "Show Feature Product"
+msgstr ""
+
+#: theme/widgets/tab_product.php:335
+#@ wpdance
+msgid "Feature Product Tab Title"
+msgstr ""
+
+#: theme/widgets/tab_product.php:341
+#@ wpdance
+msgid "Show Hot Product"
+msgstr ""
+
+#: theme/widgets/tab_product.php:344
+#@ wpdance
+msgid "Hot Product Tab Title"
+msgstr ""
+
+#: theme/widgets/tab_product.php:350
+#@ wpdance
+msgid "Show Best Selling Product"
+msgstr ""
+
+#: theme/widgets/tab_product.php:353
+#@ wpdance
+msgid "Best Selling Product Tab Title"
+msgstr ""
+
+#: theme/widgets/tab_product.php:359
+#@ wpdance
+msgid "Show Sale Product"
+msgstr ""
+
+#: theme/widgets/tab_product.php:362
+#@ wpdance
+msgid "Sale Product Tab Title"
+msgstr ""
+
+#: theme/widgets/tab_product.php:383
+#@ wpdance
+msgid "Don't select to filter by all categories"
+msgstr ""
+
+#: theme/widgets/tab_product.php:387
+#@ wpdance
+msgid "Number of products for each type"
+msgstr ""
+
+#: theme/includes/class-tgm-plugin-activation.php:174
+#@ wpdance
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/includes/class-tgm-plugin-activation.php:176
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/functions/main.php:95
+#@ wpdance
+msgid "Ingresar/Registrarse"
+msgstr ""
+
+#: framework/functions/main.php:96
+#@ wpdance
+msgid "ingresar / Registrarse"
+msgstr ""
+
+#: framework/functions/main.php:100
+#: framework/functions/main.php:101
+#: framework/functions/woo-account.php:41
+#: framework/functions/woo-account.php:42
+#: framework/functions/woo-account.php:82
+#@ wpdance
+msgid "Mi Cuenta"
+msgstr ""
+
+#: framework/functions/main.php:120
+#: framework/functions/woo-cart.php:22
+#@ wpdance
+msgid "Ver tu bolsa de compras"
+msgstr ""
+
+#: framework/functions/main.php:126
+#@ wpdance
+msgid "Mi carrito"
+msgstr ""
+
+#: framework/functions/main.php:190
+#@ wpdance
+msgid "Teléfono: "
+msgstr ""
+
+#: framework/functions/main.php:194
+#@ wpdance
+msgid "Ayuda: "
+msgstr ""
+
+#: framework/functions/woo-account.php:36
+#: framework/functions/woo-account.php:37
+#: framework/functions/woo-account.php:69
+#@ wpdance
+msgid "Ingresar"
+msgstr ""
+
+#: framework/functions/woo-account.php:48
+#@ wpdance
+msgid "Crear Cuenta"
+msgstr ""
+
+#: framework/functions/woo-account.php:49
+#: framework/functions/woo-account.php:78
+#@ wpdance
+msgid "Registrarse"
+msgstr ""
+
+#: framework/functions/woo-account.php:66
+#@ wpdance
+msgid "Usuario"
+msgstr ""
+
+#: framework/functions/woo-account.php:67
+#@ wpdance
+msgid "Contraseña"
+msgstr ""
+
+#: framework/functions/woo-account.php:75
+#@ wpdance
+msgid "¿Olvidaste tu Contraseña?"
+msgstr ""
+
+#: framework/functions/woo-account.php:78
+#@ wpdance
+msgid "¿Nuevo Cliente?"
+msgstr ""
+
+#: framework/functions/woo-account.php:83
+#@ wpdance
+msgid "Salir"
+msgstr ""
+
+#: framework/functions/woo-cart.php:28
+#@ wpdance
+msgid "Mi Carrito"
+msgstr ""
+
+#: framework/functions/woo-cart.php:51
+#@ wpdance
+msgid "bolsa de compras"
+msgstr ""
+
+#: framework/functions/woo-cart.php:59
+#@ wpdance
+msgid "No tienes artículos en tu carrito."
+msgstr ""
+
+#: framework/functions/woo-cart.php:67
+#@ wpdance
+msgid "Carrito de compras"
+msgstr ""
+
+#: framework/functions/woo-cart.php:106
+#@ wpdance
+msgid "Quitar este artículo"
+msgstr ""
+
