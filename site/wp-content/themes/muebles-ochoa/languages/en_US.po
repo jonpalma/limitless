@@ -3649,7 +3649,7 @@ msgstr "destacado"
 #: framework/functions/woo-hook.php:528
 #@ wpdance
 msgid "save off"
-msgstr "ahorro"
+msgstr "oferta"
 
 #: framework/functions/woo-hook.php:535
 #@ wpdance
@@ -3670,7 +3670,7 @@ msgstr "Nuevo"
 #: framework/functions/woo-hook.php:567
 #@ wpdance
 msgid "Save off"
-msgstr "Ahorro"
+msgstr "Oferta"
 
 #: framework/functions/woo-hook.php:571
 #@ wpdance

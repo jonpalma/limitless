@@ -373,7 +373,7 @@
 				<?php 
 					if( class_exists('WP_Widget_Product_Categories') ){
 						$instance = array(
-										'title' => 'Categories'
+										'title' => 'Categorías'
 										,'show_post_count' => 0
 										,'show_sub_cat' => 1
 										,'is_dropdown' => 1
@@ -845,7 +845,7 @@
 		
 		<?php if(!wp_is_mobile()): ?>
 		<div id="to-top" class="scroll-button">
-			<a class="scroll-button" href="javascript:void(0)" title="<?php _e('Back to Top','wpdance');?>"><?php _e('Top','wpdance'); ?></a>
+			<a class="scroll-button" href="javascript:void(0)" title="<?php _e('Back to Top','wpdance');?>"><?php _e('Arriba','wpdance'); ?></a>
 		</div>
 		<?php endif;
 		}

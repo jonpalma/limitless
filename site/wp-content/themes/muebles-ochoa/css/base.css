@@ -1217,7 +1217,7 @@ div.pp_overlay {
 .woocommerce-page .body-wrapper ul.products li.product div.product_label{
 	position:absolute;left:1px;top:1px;bottom:auto;right:auto;
 	padding:0;
-	height:auto;max-width:60px;
+	height:60px;width:60px;
 	transition:all 0.3s ease-in-out 0s;-moz-transition:all 0.3s ease-in-out 0s;-webkit-transition:all 0.3s ease-in-out 0s;
 	z-index:9;
 }
@@ -1280,11 +1280,11 @@ div.pp_overlay {
 .woocommerce-page .body-wrapper ul.products li.product span.product_label.new{
 	display:inline-block;
 	text-align:center;
-	width:45px;height:45px;
+	width:52px;height:52px;
 	font-size:13px;font-weight:700;line-height:14px;text-transform:lowercase;
     float: left;
 	position:relative;top:auto;bottom:auto;left:auto;right:auto;z-index:5;
-    padding:15px 5px;margin: 0;margin-top:10px;
+    padding:18px 5px;margin: 0;margin-top:10px;
     border-radius:100%;-webkit-border-radius:100%;-moz-border-radius:100%;-o-border-radius:100%;
     box-shadow: none;-moz-box-shadow: none;-webkit-box-shadow: none;
 	background-image:none;
